@@ -1,0 +1,5057 @@
+{
+  "http://headline.2ch.net/bbynamazu/": {
+    "url": "http://headline.2ch.net/bbynamazu/",
+    "name": "地震headline",
+    "unicode": null
+  },
+  "http://potato.2ch.net/namazuplus/": {
+    "url": "http://potato.2ch.net/namazuplus/",
+    "name": "地震速報",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/eq/": {
+    "url": "http://hayabusa6.2ch.net/eq/",
+    "name": "臨時地震",
+    "unicode": null
+  },
+  "http://hayabusa7.2ch.net/eqplus/": {
+    "url": "http://hayabusa7.2ch.net/eqplus/",
+    "name": "臨時地震+",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/lifeline/": {
+    "url": "http://rio2016.2ch.net/lifeline/",
+    "name": "緊急自然災害",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/smartphone/": {
+    "url": "http://potato.2ch.net/smartphone/",
+    "name": "スマートフォン",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/hawaii/": {
+    "url": "http://hanabi.2ch.net/hawaii/",
+    "name": "ハワイ州",
+    "unicode": "SUPPORTED"
+  },
+  "http://hanabi.2ch.net/campus/": {
+    "url": "http://hanabi.2ch.net/campus/",
+    "name": "大学生活",
+    "unicode": null
+  },
+  "http://echo.2ch.net/lovesaloon/": {
+    "url": "http://echo.2ch.net/lovesaloon/",
+    "name": "恋愛サロン",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/allergy/": {
+    "url": "http://rio2016.2ch.net/allergy/",
+    "name": "アレルギー",
+    "unicode": null
+  },
+  "http://karma.2ch.net/lovelive/": {
+    "url": "http://karma.2ch.net/lovelive/",
+    "name": "ラブライブ！",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/apple2/": {
+    "url": "http://hayabusa6.2ch.net/apple2/",
+    "name": "Apple",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/qa/": {
+    "url": "http://hanabi.2ch.net/qa/",
+    "name": "初心者の質問",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/be/": {
+    "url": "http://tamae.2ch.net/be/",
+    "name": "面白ネタnews",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/nandemo/": {
+    "url": "http://hanabi.2ch.net/nandemo/",
+    "name": "なんでも質問",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/argue/": {
+    "url": "http://hanabi.2ch.net/argue/",
+    "name": "朝生",
+    "unicode": null
+  },
+  "http://headline.2ch.net/bbynews/": {
+    "url": "http://headline.2ch.net/bbynews/",
+    "name": "速報headline",
+    "unicode": null
+  },
+  "http://hayabusa8.2ch.net/news/": {
+    "url": "http://hayabusa8.2ch.net/news/",
+    "name": "ニュース速報",
+    "unicode": null
+  },
+  "http://daily.2ch.net/newsplus/": {
+    "url": "http://daily.2ch.net/newsplus/",
+    "name": "ニュース速報+",
+    "unicode": "SUPPORTED"
+  },
+  "http://carpenter.2ch.net/chinasmog/": {
+    "url": "http://carpenter.2ch.net/chinasmog/",
+    "name": "中国スモッグ(PM2.5)",
+    "unicode": null
+  },
+  "http://echo.2ch.net/news2/": {
+    "url": "http://echo.2ch.net/news2/",
+    "name": "ニュース議論",
+    "unicode": null
+  },
+  "http://carpenter.2ch.net/liveplus/": {
+    "url": "http://carpenter.2ch.net/liveplus/",
+    "name": "ニュース実況+",
+    "unicode": null
+  },
+  "http://hayabusa8.2ch.net/mnewsplus/": {
+    "url": "http://hayabusa8.2ch.net/mnewsplus/",
+    "name": "芸スポ速報+",
+    "unicode": "SUPPORTED"
+  },
+  "http://hanabi.2ch.net/musicnews/": {
+    "url": "http://hanabi.2ch.net/musicnews/",
+    "name": "芸能音楽速報",
+    "unicode": "SUPPORTED"
+  },
+  "http://daily.2ch.net/idolplus/": {
+    "url": "http://daily.2ch.net/idolplus/",
+    "name": "アイドルニュース+",
+    "unicode": "SUPPORTED"
+  },
+  "http://karma.2ch.net/seijinewsplus/": {
+    "url": "http://karma.2ch.net/seijinewsplus/",
+    "name": "政治ニュース+",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/news4plus/": {
+    "url": "http://mint.2ch.net/news4plus/",
+    "name": "東アジアnews+",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/news4plusd/": {
+    "url": "http://mint.2ch.net/news4plusd/",
+    "name": "アジア速報+",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/asia/": {
+    "url": "http://potato.2ch.net/asia/",
+    "name": "ニュース極東",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/bizplus/": {
+    "url": "http://potato.2ch.net/bizplus/",
+    "name": "ビジネスnews+",
+    "unicode": null
+  },
+  "http://potato.2ch.net/ticketplus/": {
+    "url": "http://potato.2ch.net/ticketplus/",
+    "name": "Walker+",
+    "unicode": null
+  },
+  "http://potato.2ch.net/scienceplus/": {
+    "url": "http://potato.2ch.net/scienceplus/",
+    "name": "科学ニュース+",
+    "unicode": "SUPPORTED"
+  },
+  "http://phoebe.bbspink.com/pinkplus/": {
+    "url": "http://phoebe.bbspink.com/pinkplus/",
+    "name": "PINKニュース+",
+    "unicode": "SUPPORTED"
+  },
+  "http://mercury.bbspink.com/avplus/": {
+    "url": "http://mercury.bbspink.com/avplus/",
+    "name": "AV+",
+    "unicode": null
+  },
+  "http://karma.2ch.net/snsplus/": {
+    "url": "http://karma.2ch.net/snsplus/",
+    "name": "SNSニュース+",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/wildplus/": {
+    "url": "http://potato.2ch.net/wildplus/",
+    "name": "元気ニュース+",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/femnewsplus/": {
+    "url": "http://potato.2ch.net/femnewsplus/",
+    "name": "ローカルnews+",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/dqnplus/": {
+    "url": "http://potato.2ch.net/dqnplus/",
+    "name": "痛いニュース+",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/moeplus/": {
+    "url": "http://potato.2ch.net/moeplus/",
+    "name": "萌えニュース+",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/comicnews/": {
+    "url": "http://hayabusa6.2ch.net/comicnews/",
+    "name": "アニメ漫画速報",
+    "unicode": null
+  },
+  "http://mint.2ch.net/gamenews/": {
+    "url": "http://mint.2ch.net/gamenews/",
+    "name": "ゲーム速報",
+    "unicode": "SUPPORTED"
+  },
+  "http://tamae.2ch.net/pcnews/": {
+    "url": "http://tamae.2ch.net/pcnews/",
+    "name": "PCニュース",
+    "unicode": null
+  },
+  "http://potato.2ch.net/owabiplus/": {
+    "url": "http://potato.2ch.net/owabiplus/",
+    "name": "お詫び+",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/trafficinfo/": {
+    "url": "http://hanabi.2ch.net/trafficinfo/",
+    "name": "交通情報",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/news7/": {
+    "url": "http://hanabi.2ch.net/news7/",
+    "name": "私のニュース",
+    "unicode": "SUPPORTED"
+  },
+  "http://hanabi.2ch.net/archives/": {
+    "url": "http://hanabi.2ch.net/archives/",
+    "name": "懐かしニュース",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/bakanews/": {
+    "url": "http://hanabi.2ch.net/bakanews/",
+    "name": "バカニュース",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/editorial/": {
+    "url": "http://hayabusa6.2ch.net/editorial/",
+    "name": "社説",
+    "unicode": null
+  },
+  "http://shiba.2ch.net/editorialplus/": {
+    "url": "http://shiba.2ch.net/editorialplus/",
+    "name": "社説+",
+    "unicode": "SUPPORTED"
+  },
+  "http://rio2016.2ch.net/wikileaks/": {
+    "url": "http://rio2016.2ch.net/wikileaks/",
+    "name": "WikiLeaks",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/kokusai/": {
+    "url": "http://rio2016.2ch.net/kokusai/",
+    "name": "国際情勢",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/war/": {
+    "url": "http://hayabusa6.2ch.net/war/",
+    "name": "戦争・国防",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/news5/": {
+    "url": "http://hanabi.2ch.net/news5/",
+    "name": "イスラム情勢",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/iraq/": {
+    "url": "http://rio2016.2ch.net/iraq/",
+    "name": "イラク情勢",
+    "unicode": null
+  },
+  "http://mint.2ch.net/africa/": {
+    "url": "http://mint.2ch.net/africa/",
+    "name": "アフリカ情勢",
+    "unicode": null
+  },
+  "http://mint.2ch.net/europa/": {
+    "url": "http://mint.2ch.net/europa/",
+    "name": "欧州・CIS情勢",
+    "unicode": null
+  },
+  "http://potato.2ch.net/news5plus/": {
+    "url": "http://potato.2ch.net/news5plus/",
+    "name": "ニュース国際+",
+    "unicode": "SUPPORTED"
+  },
+  "http://rio2016.2ch.net/dejima/": {
+    "url": "http://rio2016.2ch.net/dejima/",
+    "name": "dejima",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/entrance/": {
+    "url": "http://hanabi.2ch.net/entrance/",
+    "name": "ラウンジ",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/entrance2/": {
+    "url": "http://rio2016.2ch.net/entrance2/",
+    "name": "ﾗｳﾝｼﾞｸﾗｼｯｸ",
+    "unicode": "SUPPORTED"
+  },
+  "http://tamae.2ch.net/pcqa/": {
+    "url": "http://tamae.2ch.net/pcqa/",
+    "name": "PC初心者",
+    "unicode": null
+  },
+  "http://info.2ch.net/wiki/": {
+    "url": "http://info.2ch.net/wiki/",
+    "name": "2chプロジェクト",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/goods/": {
+    "url": "http://hanabi.2ch.net/goods/",
+    "name": "グッズリスト",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/gline/": {
+    "url": "http://potato.2ch.net/gline/",
+    "name": "ガイドライン",
+    "unicode": "SUPPORTED"
+  },
+  "http://hanabi.2ch.net/event/": {
+    "url": "http://hanabi.2ch.net/event/",
+    "name": "イベント企画",
+    "unicode": "SUPPORTED"
+  },
+  "http://rio2016.2ch.net/2chse/": {
+    "url": "http://rio2016.2ch.net/2chse/",
+    "name": "2ch証券取引所",
+    "unicode": null
+  },
+  "http://info.2ch.net/rank/": {
+    "url": "http://info.2ch.net/rank/",
+    "name": "いろいろランク",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/dataroom/": {
+    "url": "http://hanabi.2ch.net/dataroom/",
+    "name": "資料室",
+    "unicode": "SUPPORTED"
+  },
+  "http://tamae.2ch.net/vote/": {
+    "url": "http://tamae.2ch.net/vote/",
+    "name": "投票所",
+    "unicode": null
+  },
+  "http://qb5.2ch.net/operate/": {
+    "url": "http://qb5.2ch.net/operate/",
+    "name": "2ch運用情報",
+    "unicode": "SUPPORTED"
+  },
+  "http://carpenter.2ch.net/operatex/": {
+    "url": "http://carpenter.2ch.net/operatex/",
+    "name": "運用情報臨時",
+    "unicode": null
+  },
+  "http://qb5.2ch.net/sec2ch/": {
+    "url": "http://qb5.2ch.net/sec2ch/",
+    "name": "2ch規制情報",
+    "unicode": "SUPPORTED"
+  },
+  "http://qb5.2ch.net/sec2chd/": {
+    "url": "http://qb5.2ch.net/sec2chd/",
+    "name": "2ch規制議論",
+    "unicode": "SUPPORTED"
+  },
+  "http://qb5.2ch.net/saku/": {
+    "url": "http://qb5.2ch.net/saku/",
+    "name": "削除整理",
+    "unicode": null
+  },
+  "http://qb5.2ch.net/sakud/": {
+    "url": "http://qb5.2ch.net/sakud/",
+    "name": "削除議論",
+    "unicode": null
+  },
+  "http://qb5.2ch.net/sakukb/": {
+    "url": "http://qb5.2ch.net/sakukb/",
+    "name": "削除知恵袋",
+    "unicode": null
+  },
+  "http://echo.2ch.net/intro/": {
+    "url": "http://echo.2ch.net/intro/",
+    "name": "自己紹介",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/honobono/": {
+    "url": "http://tamae.2ch.net/honobono/",
+    "name": "ほのぼの",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/yume/": {
+    "url": "http://tamae.2ch.net/yume/",
+    "name": "夢・独り言",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/offmatrix/": {
+    "url": "http://tamae.2ch.net/offmatrix/",
+    "name": "大規模OFF",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/offreg/": {
+    "url": "http://hayabusa6.2ch.net/offreg/",
+    "name": "定期OFF",
+    "unicode": null
+  },
+  "http://echo.2ch.net/offevent/": {
+    "url": "http://echo.2ch.net/offevent/",
+    "name": "突発OFF",
+    "unicode": null
+  },
+  "http://echo.2ch.net/aasaloon/": {
+    "url": "http://echo.2ch.net/aasaloon/",
+    "name": "AAサロン",
+    "unicode": "SUPPORTED"
+  },
+  "http://echo.2ch.net/mona/": {
+    "url": "http://echo.2ch.net/mona/",
+    "name": "モナー",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/nida/": {
+    "url": "http://hayabusa6.2ch.net/nida/",
+    "name": "ニダー",
+    "unicode": "SUPPORTED"
+  },
+  "http://echo.2ch.net/aastory/": {
+    "url": "http://echo.2ch.net/aastory/",
+    "name": "AA長編",
+    "unicode": "SUPPORTED"
+  },
+  "http://echo.2ch.net/kao/": {
+    "url": "http://echo.2ch.net/kao/",
+    "name": "顔文字",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/mass/": {
+    "url": "http://potato.2ch.net/mass/",
+    "name": "マスコミ",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/youth/": {
+    "url": "http://potato.2ch.net/youth/",
+    "name": "少年犯罪",
+    "unicode": "SUPPORTED"
+  },
+  "http://rio2016.2ch.net/disaster/": {
+    "url": "http://rio2016.2ch.net/disaster/",
+    "name": "自然災害",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/119/": {
+    "url": "http://potato.2ch.net/119/",
+    "name": "消防救急防災",
+    "unicode": null
+  },
+  "http://echo.2ch.net/gender/": {
+    "url": "http://echo.2ch.net/gender/",
+    "name": "男性論女性論",
+    "unicode": null
+  },
+  "http://mint.2ch.net/giin/": {
+    "url": "http://mint.2ch.net/giin/",
+    "name": "議員・選挙",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/manifesto/": {
+    "url": "http://hanabi.2ch.net/manifesto/",
+    "name": "政治家語録",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/police/": {
+    "url": "http://rio2016.2ch.net/police/",
+    "name": "警察",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/court/": {
+    "url": "http://potato.2ch.net/court/",
+    "name": "裁判・司法",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/saibanin/": {
+    "url": "http://hayabusa6.2ch.net/saibanin/",
+    "name": "裁判員制度",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/soc/": {
+    "url": "http://rio2016.2ch.net/soc/",
+    "name": "社会・世評",
+    "unicode": null
+  },
+  "http://potato.2ch.net/atom/": {
+    "url": "http://potato.2ch.net/atom/",
+    "name": "環境・電力",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/energy/": {
+    "url": "http://rio2016.2ch.net/energy/",
+    "name": "エネルギー",
+    "unicode": null
+  },
+  "http://potato.2ch.net/river/": {
+    "url": "http://potato.2ch.net/river/",
+    "name": "河川・ダム等",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/traf/": {
+    "url": "http://rio2016.2ch.net/traf/",
+    "name": "運輸・交通",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/way/": {
+    "url": "http://hayabusa6.2ch.net/way/",
+    "name": "道路・高速道路",
+    "unicode": null
+  },
+  "http://potato.2ch.net/develop/": {
+    "url": "http://potato.2ch.net/develop/",
+    "name": "都市計画",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/recruit/": {
+    "url": "http://rio2016.2ch.net/recruit/",
+    "name": "就職",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/job/": {
+    "url": "http://tamae.2ch.net/job/",
+    "name": "転職",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/volunteer/": {
+    "url": "http://rio2016.2ch.net/volunteer/",
+    "name": "ボランティア",
+    "unicode": null
+  },
+  "http://potato.2ch.net/welfare/": {
+    "url": "http://potato.2ch.net/welfare/",
+    "name": "介護・福祉",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/mayor/": {
+    "url": "http://rio2016.2ch.net/mayor/",
+    "name": "地方自治知事",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/ftax/": {
+    "url": "http://hayabusa6.2ch.net/ftax/",
+    "name": "ふるさと納税",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/jsdf/": {
+    "url": "http://rio2016.2ch.net/jsdf/",
+    "name": "自衛隊",
+    "unicode": null
+  },
+  "http://echo.2ch.net/nenga/": {
+    "url": "http://echo.2ch.net/nenga/",
+    "name": "郵便・郵政",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/lifework/": {
+    "url": "http://hayabusa6.2ch.net/lifework/",
+    "name": "生涯学習",
+    "unicode": null
+  },
+  "http://potato.2ch.net/regulate/": {
+    "url": "http://potato.2ch.net/regulate/",
+    "name": "通信行政",
+    "unicode": null
+  },
+  "http://krsw.2ch.net/forex/": {
+    "url": "http://krsw.2ch.net/forex/",
+    "name": "外為",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/venture/": {
+    "url": "http://rio2016.2ch.net/venture/",
+    "name": "ベンチャー",
+    "unicode": null
+  },
+  "http://echo.2ch.net/manage/": {
+    "url": "http://echo.2ch.net/manage/",
+    "name": "経営学",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/management/": {
+    "url": "http://hayabusa6.2ch.net/management/",
+    "name": "店舗運営",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/estate/": {
+    "url": "http://hayabusa6.2ch.net/estate/",
+    "name": "賃貸不動産",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/koumu/": {
+    "url": "http://rio2016.2ch.net/koumu/",
+    "name": "公務員",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/shikaku/": {
+    "url": "http://hayabusa6.2ch.net/shikaku/",
+    "name": "法律勉強相談",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/lic/": {
+    "url": "http://hanabi.2ch.net/lic/",
+    "name": "資格全般",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/haken/": {
+    "url": "http://hayabusa6.2ch.net/haken/",
+    "name": "派遣業界",
+    "unicode": null
+  },
+  "http://potato.2ch.net/hoken/": {
+    "url": "http://potato.2ch.net/hoken/",
+    "name": "保険業界",
+    "unicode": null
+  },
+  "http://echo.2ch.net/tax/": {
+    "url": "http://echo.2ch.net/tax/",
+    "name": "税金経理会計",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/exam/": {
+    "url": "http://tamae.2ch.net/exam/",
+    "name": "会計全般試験",
+    "unicode": null
+  },
+  "http://potato.2ch.net/hosp/": {
+    "url": "http://potato.2ch.net/hosp/",
+    "name": "病院・医者",
+    "unicode": null
+  },
+  "http://potato.2ch.net/bio/": {
+    "url": "http://potato.2ch.net/bio/",
+    "name": "医療業界",
+    "unicode": null
+  },
+  "http://potato.2ch.net/hikari/": {
+    "url": "http://potato.2ch.net/hikari/",
+    "name": "光通信",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/dtp/": {
+    "url": "http://hayabusa6.2ch.net/dtp/",
+    "name": "DTP・印刷",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/part/": {
+    "url": "http://tamae.2ch.net/part/",
+    "name": "アルバイト",
+    "unicode": null
+  },
+  "http://potato.2ch.net/koukoku/": {
+    "url": "http://potato.2ch.net/koukoku/",
+    "name": "広告業界",
+    "unicode": null
+  },
+  "http://potato.2ch.net/agri/": {
+    "url": "http://potato.2ch.net/agri/",
+    "name": "農林水産業",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/build/": {
+    "url": "http://hayabusa6.2ch.net/build/",
+    "name": "建設住宅業界",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/industry/": {
+    "url": "http://hayabusa6.2ch.net/industry/",
+    "name": "製造業界",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/peko/": {
+    "url": "http://hanabi.2ch.net/peko/",
+    "name": "食品業界・問題",
+    "unicode": null
+  },
+  "http://mint.2ch.net/company/": {
+    "url": "http://mint.2ch.net/company/",
+    "name": "ちくり裏事情",
+    "unicode": "SUPPORTED"
+  },
+  "http://rio2016.2ch.net/bouhan/": {
+    "url": "http://rio2016.2ch.net/bouhan/",
+    "name": "防犯・詐欺対策",
+    "unicode": null
+  },
+  "http://echo.2ch.net/antispam/": {
+    "url": "http://echo.2ch.net/antispam/",
+    "name": "架空請求・spam",
+    "unicode": null
+  },
+  "http://potato.2ch.net/ihan/": {
+    "url": "http://potato.2ch.net/ihan/",
+    "name": "違反の潰し方",
+    "unicode": null
+  },
+  "http://shiba.2ch.net/hokkaido/": {
+    "url": "http://shiba.2ch.net/hokkaido/",
+    "name": "北海道",
+    "unicode": null
+  },
+  "http://shiba.2ch.net/tohoku/": {
+    "url": "http://shiba.2ch.net/tohoku/",
+    "name": "東北",
+    "unicode": null
+  },
+  "http://shiba.2ch.net/kousinetu/": {
+    "url": "http://shiba.2ch.net/kousinetu/",
+    "name": "北陸・甲信越",
+    "unicode": null
+  },
+  "http://shiba.2ch.net/kanto/": {
+    "url": "http://shiba.2ch.net/kanto/",
+    "name": "関東",
+    "unicode": null
+  },
+  "http://shiba.2ch.net/tokyo/": {
+    "url": "http://shiba.2ch.net/tokyo/",
+    "name": "東京",
+    "unicode": null
+  },
+  "http://shiba.2ch.net/tama/": {
+    "url": "http://shiba.2ch.net/tama/",
+    "name": "多摩",
+    "unicode": null
+  },
+  "http://shiba.2ch.net/kana/": {
+    "url": "http://shiba.2ch.net/kana/",
+    "name": "神奈川",
+    "unicode": null
+  },
+  "http://shiba.2ch.net/tokai/": {
+    "url": "http://shiba.2ch.net/tokai/",
+    "name": "東海",
+    "unicode": null
+  },
+  "http://shiba.2ch.net/kinki/": {
+    "url": "http://shiba.2ch.net/kinki/",
+    "name": "近畿",
+    "unicode": null
+  },
+  "http://shiba.2ch.net/osaka/": {
+    "url": "http://shiba.2ch.net/osaka/",
+    "name": "大阪",
+    "unicode": null
+  },
+  "http://shiba.2ch.net/chugoku/": {
+    "url": "http://shiba.2ch.net/chugoku/",
+    "name": "中国",
+    "unicode": null
+  },
+  "http://shiba.2ch.net/sikoku/": {
+    "url": "http://shiba.2ch.net/sikoku/",
+    "name": "四国",
+    "unicode": null
+  },
+  "http://shiba.2ch.net/kyusyu/": {
+    "url": "http://shiba.2ch.net/kyusyu/",
+    "name": "九州",
+    "unicode": null
+  },
+  "http://shiba.2ch.net/okinawa/": {
+    "url": "http://shiba.2ch.net/okinawa/",
+    "name": "沖縄",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/expo/": {
+    "url": "http://hanabi.2ch.net/expo/",
+    "name": "万博・地方博",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/subcal/": {
+    "url": "http://hayabusa6.2ch.net/subcal/",
+    "name": "サブカル",
+    "unicode": null
+  },
+  "http://echo.2ch.net/bun/": {
+    "url": "http://echo.2ch.net/bun/",
+    "name": "創作文芸",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/mitemite/": {
+    "url": "http://hayabusa6.2ch.net/mitemite/",
+    "name": "創作発表",
+    "unicode": null
+  },
+  "http://echo.2ch.net/poem/": {
+    "url": "http://echo.2ch.net/poem/",
+    "name": "詩・ポエム",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/rongo/": {
+    "url": "http://potato.2ch.net/rongo/",
+    "name": "名言・格言",
+    "unicode": null
+  },
+  "http://mint.2ch.net/movie/": {
+    "url": "http://mint.2ch.net/movie/",
+    "name": "映画一般・8mm",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/cinema/": {
+    "url": "http://mint.2ch.net/cinema/",
+    "name": "映画作品・人",
+    "unicode": null
+  },
+  "http://karma.2ch.net/endroll/": {
+    "url": "http://karma.2ch.net/endroll/",
+    "name": "映画人",
+    "unicode": "SUPPORTED"
+  },
+  "http://rio2016.2ch.net/rmovie/": {
+    "url": "http://rio2016.2ch.net/rmovie/",
+    "name": "懐かし邦画",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/kinema/": {
+    "url": "http://rio2016.2ch.net/kinema/",
+    "name": "懐かし洋画",
+    "unicode": null
+  },
+  "http://krsw.2ch.net/netflix/": {
+    "url": "http://krsw.2ch.net/netflix/",
+    "name": "Netflix",
+    "unicode": null
+  },
+  "http://krsw.2ch.net/hulu/": {
+    "url": "http://krsw.2ch.net/hulu/",
+    "name": "フールー",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/occult/": {
+    "url": "http://hayabusa6.2ch.net/occult/",
+    "name": "オカルト",
+    "unicode": "SUPPORTED"
+  },
+  "http://karma.2ch.net/kaidan/": {
+    "url": "http://karma.2ch.net/kaidan/",
+    "name": "創作怪談",
+    "unicode": "SUPPORTED"
+  },
+  "http://hanabi.2ch.net/esp/": {
+    "url": "http://hanabi.2ch.net/esp/",
+    "name": "超能力",
+    "unicode": null
+  },
+  "http://echo.2ch.net/sfx/": {
+    "url": "http://echo.2ch.net/sfx/",
+    "name": "特撮！",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/rsfx/": {
+    "url": "http://rio2016.2ch.net/rsfx/",
+    "name": "昭和特撮",
+    "unicode": null
+  },
+  "http://mint.2ch.net/drama/": {
+    "url": "http://mint.2ch.net/drama/",
+    "name": "演劇・舞台役者",
+    "unicode": null
+  },
+  "http://mint.2ch.net/siki/": {
+    "url": "http://mint.2ch.net/siki/",
+    "name": "宝塚・四季",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/fortune/": {
+    "url": "http://hayabusa6.2ch.net/fortune/",
+    "name": "占い",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/uranai/": {
+    "url": "http://hayabusa6.2ch.net/uranai/",
+    "name": "占術理論実践",
+    "unicode": "SUPPORTED"
+  },
+  "http://hanabi.2ch.net/kyoto/": {
+    "url": "http://hanabi.2ch.net/kyoto/",
+    "name": "神社・仏閣",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/gallery/": {
+    "url": "http://mint.2ch.net/gallery/",
+    "name": "美術鑑賞",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/rakugo/": {
+    "url": "http://mint.2ch.net/rakugo/",
+    "name": "伝統芸能",
+    "unicode": null
+  },
+  "http://potato.2ch.net/ruins/": {
+    "url": "http://potato.2ch.net/ruins/",
+    "name": "世界遺産",
+    "unicode": null
+  },
+  "http://potato.2ch.net/emperor/": {
+    "url": "http://potato.2ch.net/emperor/",
+    "name": "皇室・王侯貴族",
+    "unicode": null
+  },
+  "http://karma.2ch.net/spiritual/": {
+    "url": "http://karma.2ch.net/spiritual/",
+    "name": "スピリチュアル",
+    "unicode": "SUPPORTED"
+  },
+  "http://rio2016.2ch.net/rikei/": {
+    "url": "http://rio2016.2ch.net/rikei/",
+    "name": "理系全般",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/sci/": {
+    "url": "http://rio2016.2ch.net/sci/",
+    "name": "物理",
+    "unicode": "SUPPORTED"
+  },
+  "http://rio2016.2ch.net/life/": {
+    "url": "http://rio2016.2ch.net/life/",
+    "name": "生物",
+    "unicode": "SUPPORTED"
+  },
+  "http://hanabi.2ch.net/bake/": {
+    "url": "http://hanabi.2ch.net/bake/",
+    "name": "化学",
+    "unicode": "SUPPORTED"
+  },
+  "http://hanabi.2ch.net/kikai/": {
+    "url": "http://hanabi.2ch.net/kikai/",
+    "name": "機械・工学",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/denki/": {
+    "url": "http://rio2016.2ch.net/denki/",
+    "name": "電気・電子",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/robot/": {
+    "url": "http://rio2016.2ch.net/robot/",
+    "name": "ロボット技術",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/infosys/": {
+    "url": "http://hanabi.2ch.net/infosys/",
+    "name": "情報システム",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/informatics/": {
+    "url": "http://rio2016.2ch.net/informatics/",
+    "name": "情報学",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/sim/": {
+    "url": "http://hanabi.2ch.net/sim/",
+    "name": "シミュレート",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/nougaku/": {
+    "url": "http://hanabi.2ch.net/nougaku/",
+    "name": "農学",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/sky/": {
+    "url": "http://hanabi.2ch.net/sky/",
+    "name": "天文・気象",
+    "unicode": "SUPPORTED"
+  },
+  "http://rio2016.2ch.net/galileo/": {
+    "url": "http://rio2016.2ch.net/galileo/",
+    "name": "宇宙",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/doctor/": {
+    "url": "http://hayabusa6.2ch.net/doctor/",
+    "name": "医歯薬看護",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/kampo/": {
+    "url": "http://rio2016.2ch.net/kampo/",
+    "name": "東洋医学",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/math/": {
+    "url": "http://rio2016.2ch.net/math/",
+    "name": "数学",
+    "unicode": "SUPPORTED"
+  },
+  "http://hanabi.2ch.net/doboku/": {
+    "url": "http://hanabi.2ch.net/doboku/",
+    "name": "土木・建築",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/material/": {
+    "url": "http://hanabi.2ch.net/material/",
+    "name": "材料物性",
+    "unicode": null
+  },
+  "http://echo.2ch.net/space/": {
+    "url": "http://echo.2ch.net/space/",
+    "name": "航空・船舶",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/future/": {
+    "url": "http://rio2016.2ch.net/future/",
+    "name": "未来技術",
+    "unicode": "SUPPORTED"
+  },
+  "http://rio2016.2ch.net/wild/": {
+    "url": "http://rio2016.2ch.net/wild/",
+    "name": "野生生物",
+    "unicode": null
+  },
+  "http://karma.2ch.net/plants/": {
+    "url": "http://karma.2ch.net/plants/",
+    "name": "植物",
+    "unicode": "SUPPORTED"
+  },
+  "http://hanabi.2ch.net/goldenfish/": {
+    "url": "http://hanabi.2ch.net/goldenfish/",
+    "name": "日本の淡水魚",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/insect/": {
+    "url": "http://hanabi.2ch.net/insect/",
+    "name": "昆虫・節足動物",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/earth/": {
+    "url": "http://rio2016.2ch.net/earth/",
+    "name": "地球科学",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/psycho/": {
+    "url": "http://mint.2ch.net/psycho/",
+    "name": "心理学",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/gengo/": {
+    "url": "http://mint.2ch.net/gengo/",
+    "name": "言語学",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/dialect/": {
+    "url": "http://potato.2ch.net/dialect/",
+    "name": "方言",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/pedagogy/": {
+    "url": "http://mint.2ch.net/pedagogy/",
+    "name": "教育学",
+    "unicode": null
+  },
+  "http://mint.2ch.net/sociology/": {
+    "url": "http://mint.2ch.net/sociology/",
+    "name": "社会学",
+    "unicode": null
+  },
+  "http://mint.2ch.net/economics/": {
+    "url": "http://mint.2ch.net/economics/",
+    "name": "経済学",
+    "unicode": null
+  },
+  "http://echo.2ch.net/book/": {
+    "url": "http://echo.2ch.net/book/",
+    "name": "文学",
+    "unicode": "SUPPORTED"
+  },
+  "http://echo.2ch.net/poetics/": {
+    "url": "http://echo.2ch.net/poetics/",
+    "name": "詩文学",
+    "unicode": null
+  },
+  "http://mint.2ch.net/history/": {
+    "url": "http://mint.2ch.net/history/",
+    "name": "日本史",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/history2/": {
+    "url": "http://mint.2ch.net/history2/",
+    "name": "日本近代史",
+    "unicode": null
+  },
+  "http://mint.2ch.net/whis/": {
+    "url": "http://mint.2ch.net/whis/",
+    "name": "世界史",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/archeology/": {
+    "url": "http://mint.2ch.net/archeology/",
+    "name": "考古学",
+    "unicode": null
+  },
+  "http://mint.2ch.net/min/": {
+    "url": "http://mint.2ch.net/min/",
+    "name": "民俗・神話学",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/kobun/": {
+    "url": "http://mint.2ch.net/kobun/",
+    "name": "古文・漢文",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/english/": {
+    "url": "http://mint.2ch.net/english/",
+    "name": "ENGLISH",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/usa/": {
+    "url": "http://mint.2ch.net/usa/",
+    "name": "アメリカ",
+    "unicode": null
+  },
+  "http://mint.2ch.net/korea/": {
+    "url": "http://mint.2ch.net/korea/",
+    "name": "ハングル",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/china/": {
+    "url": "http://mint.2ch.net/china/",
+    "name": "中国",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/taiwan/": {
+    "url": "http://mint.2ch.net/taiwan/",
+    "name": "台湾",
+    "unicode": "SUPPORTED"
+  },
+  "http://echo.2ch.net/myanmar/": {
+    "url": "http://echo.2ch.net/myanmar/",
+    "name": "ミャンマー",
+    "unicode": null
+  },
+  "http://echo.2ch.net/yangon/": {
+    "url": "http://echo.2ch.net/yangon/",
+    "name": "ヤンゴン",
+    "unicode": null
+  },
+  "http://mint.2ch.net/geo/": {
+    "url": "http://mint.2ch.net/geo/",
+    "name": "地理・人類学",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/chiri/": {
+    "url": "http://hanabi.2ch.net/chiri/",
+    "name": "地理お国自慢",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/gogaku/": {
+    "url": "http://mint.2ch.net/gogaku/",
+    "name": "外国語",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/art/": {
+    "url": "http://mint.2ch.net/art/",
+    "name": "芸術デザイン",
+    "unicode": null
+  },
+  "http://mint.2ch.net/philo/": {
+    "url": "http://mint.2ch.net/philo/",
+    "name": "哲学",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/jurisp/": {
+    "url": "http://mint.2ch.net/jurisp/",
+    "name": "法学",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/shihou/": {
+    "url": "http://tamae.2ch.net/shihou/",
+    "name": "司法試験",
+    "unicode": null
+  },
+  "http://mint.2ch.net/kaden/": {
+    "url": "http://mint.2ch.net/kaden/",
+    "name": "家電製品",
+    "unicode": "SUPPORTED"
+  },
+  "http://hanabi.2ch.net/wm/": {
+    "url": "http://hanabi.2ch.net/wm/",
+    "name": "ポータブルAV",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/vcamera/": {
+    "url": "http://hanabi.2ch.net/vcamera/",
+    "name": "ビデオカメラ",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/bakery/": {
+    "url": "http://hanabi.2ch.net/bakery/",
+    "name": "調理家電",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/toilet/": {
+    "url": "http://rio2016.2ch.net/toilet/",
+    "name": "シャワートイレ",
+    "unicode": null
+  },
+  "http://mint.2ch.net/sony/": {
+    "url": "http://mint.2ch.net/sony/",
+    "name": "ソニー",
+    "unicode": null
+  },
+  "http://mint.2ch.net/phs/": {
+    "url": "http://mint.2ch.net/phs/",
+    "name": "携帯・ＰＨＳ",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/keitai/": {
+    "url": "http://mint.2ch.net/keitai/",
+    "name": "携帯機種",
+    "unicode": null
+  },
+  "http://carpenter.2ch.net/spsaloon/": {
+    "url": "http://carpenter.2ch.net/spsaloon/",
+    "name": "スマホサロン",
+    "unicode": null
+  },
+  "http://karma.2ch.net/ios/": {
+    "url": "http://karma.2ch.net/ios/",
+    "name": "iOS",
+    "unicode": "SUPPORTED"
+  },
+  "http://hanabi.2ch.net/iPhone/": {
+    "url": "http://hanabi.2ch.net/iPhone/",
+    "name": "iOSゲーム",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/android/": {
+    "url": "http://potato.2ch.net/android/",
+    "name": "Android",
+    "unicode": null
+  },
+  "http://mint.2ch.net/chakumelo/": {
+    "url": "http://mint.2ch.net/chakumelo/",
+    "name": "携帯コンテンツ",
+    "unicode": null
+  },
+  "http://hayabusa8.2ch.net/appli/": {
+    "url": "http://hayabusa8.2ch.net/appli/",
+    "name": "携帯電話ゲー",
+    "unicode": null
+  },
+  "http://potato.2ch.net/applism/": {
+    "url": "http://potato.2ch.net/applism/",
+    "name": "スマホアプリ",
+    "unicode": null
+  },
+  "http://mint.2ch.net/dgoods/": {
+    "url": "http://mint.2ch.net/dgoods/",
+    "name": "デジタルモノ",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/camera/": {
+    "url": "http://mint.2ch.net/camera/",
+    "name": "カメラ",
+    "unicode": "SUPPORTED"
+  },
+  "http://echo.2ch.net/dcamera/": {
+    "url": "http://echo.2ch.net/dcamera/",
+    "name": "デジカメ",
+    "unicode": null
+  },
+  "http://echo.2ch.net/av/": {
+    "url": "http://echo.2ch.net/av/",
+    "name": "AV機器",
+    "unicode": null
+  },
+  "http://mint.2ch.net/pav/": {
+    "url": "http://mint.2ch.net/pav/",
+    "name": "ピュアAU",
+    "unicode": "SUPPORTED"
+  },
+  "http://rio2016.2ch.net/battery/": {
+    "url": "http://rio2016.2ch.net/battery/",
+    "name": "電池等",
+    "unicode": null
+  },
+  "http://echo.2ch.net/seiji/": {
+    "url": "http://echo.2ch.net/seiji/",
+    "name": "政治",
+    "unicode": null
+  },
+  "http://potato.2ch.net/diplomacy/": {
+    "url": "http://potato.2ch.net/diplomacy/",
+    "name": "外交政策",
+    "unicode": null
+  },
+  "http://potato.2ch.net/trafficpolicy/": {
+    "url": "http://potato.2ch.net/trafficpolicy/",
+    "name": "交通政策",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/eco/": {
+    "url": "http://tamae.2ch.net/eco/",
+    "name": "経済",
+    "unicode": null
+  },
+  "http://potato.2ch.net/stock/": {
+    "url": "http://potato.2ch.net/stock/",
+    "name": "株式",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/stockb/": {
+    "url": "http://hayabusa6.2ch.net/stockb/",
+    "name": "株個別銘柄",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/market/": {
+    "url": "http://tamae.2ch.net/market/",
+    "name": "投資一般",
+    "unicode": null
+  },
+  "http://hayabusa8.2ch.net/livemarket1/": {
+    "url": "http://hayabusa8.2ch.net/livemarket1/",
+    "name": "市況1",
+    "unicode": null
+  },
+  "http://hayabusa8.2ch.net/livemarket2/": {
+    "url": "http://hayabusa8.2ch.net/livemarket2/",
+    "name": "市況2",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/deal/": {
+    "url": "http://hayabusa6.2ch.net/deal/",
+    "name": "先物",
+    "unicode": null
+  },
+  "http://potato.2ch.net/koumei/": {
+    "url": "http://potato.2ch.net/koumei/",
+    "name": "創価・公明",
+    "unicode": null
+  },
+  "http://echo.2ch.net/kyousan/": {
+    "url": "http://echo.2ch.net/kyousan/",
+    "name": "共産党",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/sisou/": {
+    "url": "http://potato.2ch.net/sisou/",
+    "name": "政治思想",
+    "unicode": null
+  },
+  "http://potato.2ch.net/kova/": {
+    "url": "http://potato.2ch.net/kova/",
+    "name": "ゴーマニズム",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/money/": {
+    "url": "http://hayabusa6.2ch.net/money/",
+    "name": "金融",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/food/": {
+    "url": "http://hanabi.2ch.net/food/",
+    "name": "食べ物",
+    "unicode": "SUPPORTED"
+  },
+  "http://hanabi.2ch.net/candy/": {
+    "url": "http://hanabi.2ch.net/candy/",
+    "name": "お菓子",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/juice/": {
+    "url": "http://hanabi.2ch.net/juice/",
+    "name": "ソフトドリンク",
+    "unicode": "SUPPORTED"
+  },
+  "http://hanabi.2ch.net/pot/": {
+    "url": "http://hanabi.2ch.net/pot/",
+    "name": "お茶・珈琲",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/cook/": {
+    "url": "http://hanabi.2ch.net/cook/",
+    "name": "料理",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/okome/": {
+    "url": "http://potato.2ch.net/okome/",
+    "name": "米・米加工品",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/yasai/": {
+    "url": "http://hayabusa6.2ch.net/yasai/",
+    "name": "野菜・果物",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/kinoko/": {
+    "url": "http://rio2016.2ch.net/kinoko/",
+    "name": "きのこ",
+    "unicode": null
+  },
+  "http://krsw.2ch.net/takenoko/": {
+    "url": "http://krsw.2ch.net/takenoko/",
+    "name": "たけのこ",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/salt/": {
+    "url": "http://hanabi.2ch.net/salt/",
+    "name": "調味料",
+    "unicode": null
+  },
+  "http://echo.2ch.net/ramen/": {
+    "url": "http://echo.2ch.net/ramen/",
+    "name": "ラーメン",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/nissin/": {
+    "url": "http://hanabi.2ch.net/nissin/",
+    "name": "インスタント麺",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/jnoodle/": {
+    "url": "http://hanabi.2ch.net/jnoodle/",
+    "name": "そば・うどん",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/sushi/": {
+    "url": "http://hanabi.2ch.net/sushi/",
+    "name": "おすし",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/don/": {
+    "url": "http://hanabi.2ch.net/don/",
+    "name": "丼",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/curry/": {
+    "url": "http://hanabi.2ch.net/curry/",
+    "name": "カレー",
+    "unicode": "SUPPORTED"
+  },
+  "http://hanabi.2ch.net/bread/": {
+    "url": "http://hanabi.2ch.net/bread/",
+    "name": "パン",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/pasta/": {
+    "url": "http://hanabi.2ch.net/pasta/",
+    "name": "パスタ・ピザ",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/kbbq/": {
+    "url": "http://hanabi.2ch.net/kbbq/",
+    "name": "焼肉",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/konamono/": {
+    "url": "http://hanabi.2ch.net/konamono/",
+    "name": "たこ焼き等",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/toba/": {
+    "url": "http://hanabi.2ch.net/toba/",
+    "name": "珍味",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/gurume/": {
+    "url": "http://hanabi.2ch.net/gurume/",
+    "name": "グルメ外食",
+    "unicode": "SUPPORTED"
+  },
+  "http://hanabi.2ch.net/famires/": {
+    "url": "http://hanabi.2ch.net/famires/",
+    "name": "ファミレス",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/jfoods/": {
+    "url": "http://hanabi.2ch.net/jfoods/",
+    "name": "Ｂ級グルメ",
+    "unicode": "SUPPORTED"
+  },
+  "http://hanabi.2ch.net/bento/": {
+    "url": "http://hanabi.2ch.net/bento/",
+    "name": "弁当・駅弁",
+    "unicode": null
+  },
+  "http://echo.2ch.net/sake/": {
+    "url": "http://echo.2ch.net/sake/",
+    "name": "お酒・Bar",
+    "unicode": "SUPPORTED"
+  },
+  "http://hanabi.2ch.net/wine/": {
+    "url": "http://hanabi.2ch.net/wine/",
+    "name": "ワイン",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/beer/": {
+    "url": "http://hayabusa6.2ch.net/beer/",
+    "name": "ビール",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/drunk/": {
+    "url": "http://hanabi.2ch.net/drunk/",
+    "name": "居酒屋",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/recipe/": {
+    "url": "http://hanabi.2ch.net/recipe/",
+    "name": "レシピ",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/patissier/": {
+    "url": "http://hanabi.2ch.net/patissier/",
+    "name": "製菓・製パン",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/supplement/": {
+    "url": "http://hanabi.2ch.net/supplement/",
+    "name": "健康食・サプリ",
+    "unicode": null
+  },
+  "http://karma.2ch.net/vegetarian/": {
+    "url": "http://karma.2ch.net/vegetarian/",
+    "name": "ベジタリアン",
+    "unicode": "SUPPORTED"
+  },
+  "http://rio2016.2ch.net/lifesaloon/": {
+    "url": "http://rio2016.2ch.net/lifesaloon/",
+    "name": "生活サロン",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/kankon/": {
+    "url": "http://tamae.2ch.net/kankon/",
+    "name": "生活全般",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/okiraku/": {
+    "url": "http://rio2016.2ch.net/okiraku/",
+    "name": "その日暮らし",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/homealone/": {
+    "url": "http://rio2016.2ch.net/homealone/",
+    "name": "一人暮らし",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/countrylife/": {
+    "url": "http://rio2016.2ch.net/countrylife/",
+    "name": "田舎暮らし",
+    "unicode": null
+  },
+  "http://potato.2ch.net/debt/": {
+    "url": "http://potato.2ch.net/debt/",
+    "name": "借金生活",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/inpatient/": {
+    "url": "http://rio2016.2ch.net/inpatient/",
+    "name": "入院生活",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/sportsclub/": {
+    "url": "http://rio2016.2ch.net/sportsclub/",
+    "name": "スポーツクラブ",
+    "unicode": null
+  },
+  "http://mint.2ch.net/bath/": {
+    "url": "http://mint.2ch.net/bath/",
+    "name": "お風呂・銭湯",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/anniversary/": {
+    "url": "http://rio2016.2ch.net/anniversary/",
+    "name": "記念日",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/sousai/": {
+    "url": "http://rio2016.2ch.net/sousai/",
+    "name": "冠婚葬祭",
+    "unicode": "SUPPORTED"
+  },
+  "http://echo.2ch.net/baby/": {
+    "url": "http://echo.2ch.net/baby/",
+    "name": "育児",
+    "unicode": "SUPPORTED"
+  },
+  "http://rio2016.2ch.net/kagu/": {
+    "url": "http://rio2016.2ch.net/kagu/",
+    "name": "家具",
+    "unicode": null
+  },
+  "http://carpenter.2ch.net/diy/": {
+    "url": "http://carpenter.2ch.net/diy/",
+    "name": "DIY",
+    "unicode": null
+  },
+  "http://shiba.2ch.net/diary/": {
+    "url": "http://shiba.2ch.net/diary/",
+    "name": "日記",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/shop/": {
+    "url": "http://tamae.2ch.net/shop/",
+    "name": "通販・買い物",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/hcenter/": {
+    "url": "http://potato.2ch.net/hcenter/",
+    "name": "家電等量販店",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/used/": {
+    "url": "http://hayabusa6.2ch.net/used/",
+    "name": "中古リサイクル",
+    "unicode": null
+  },
+  "http://potato.2ch.net/rental/": {
+    "url": "http://potato.2ch.net/rental/",
+    "name": "レンタル",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/trend/": {
+    "url": "http://rio2016.2ch.net/trend/",
+    "name": "流行",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/model/": {
+    "url": "http://rio2016.2ch.net/model/",
+    "name": "モデル",
+    "unicode": null
+  },
+  "http://echo.2ch.net/fashion/": {
+    "url": "http://echo.2ch.net/fashion/",
+    "name": "ファッション",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/underwear/": {
+    "url": "http://hayabusa6.2ch.net/underwear/",
+    "name": "下着",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/shoes/": {
+    "url": "http://rio2016.2ch.net/shoes/",
+    "name": "靴",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/female/": {
+    "url": "http://rio2016.2ch.net/female/",
+    "name": "化粧",
+    "unicode": "SUPPORTED"
+  },
+  "http://tamae.2ch.net/diet/": {
+    "url": "http://tamae.2ch.net/diet/",
+    "name": "美容",
+    "unicode": null
+  },
+  "http://mint.2ch.net/mensbeauty/": {
+    "url": "http://mint.2ch.net/mensbeauty/",
+    "name": "男の美容・化粧",
+    "unicode": null
+  },
+  "http://potato.2ch.net/aroma/": {
+    "url": "http://potato.2ch.net/aroma/",
+    "name": "香水芳香消臭",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/seikei/": {
+    "url": "http://rio2016.2ch.net/seikei/",
+    "name": "美容整形",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/shapeup/": {
+    "url": "http://rio2016.2ch.net/shapeup/",
+    "name": "ダイエット",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/world/": {
+    "url": "http://rio2016.2ch.net/world/",
+    "name": "一般海外生活",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/northa/": {
+    "url": "http://rio2016.2ch.net/northa/",
+    "name": "北米海外生活",
+    "unicode": "SUPPORTED"
+  },
+  "http://rio2016.2ch.net/credit/": {
+    "url": "http://rio2016.2ch.net/credit/",
+    "name": "クレジット",
+    "unicode": null
+  },
+  "http://mint.2ch.net/point/": {
+    "url": "http://mint.2ch.net/point/",
+    "name": "ポイント・マイル",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/cafe30/": {
+    "url": "http://hanabi.2ch.net/cafe30/",
+    "name": "３０代",
+    "unicode": null
+  },
+  "http://echo.2ch.net/cafe40/": {
+    "url": "http://echo.2ch.net/cafe40/",
+    "name": "４０代",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/cafe50/": {
+    "url": "http://hanabi.2ch.net/cafe50/",
+    "name": "５０代以上",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/cafe60/": {
+    "url": "http://potato.2ch.net/cafe60/",
+    "name": "６０歳以上",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/live/": {
+    "url": "http://mint.2ch.net/live/",
+    "name": "家庭",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/souji/": {
+    "url": "http://rio2016.2ch.net/souji/",
+    "name": "掃除全般",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/goki/": {
+    "url": "http://rio2016.2ch.net/goki/",
+    "name": "害虫害獣対策",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/radiation/": {
+    "url": "http://rio2016.2ch.net/radiation/",
+    "name": "放射能",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/kechi2/": {
+    "url": "http://hayabusa6.2ch.net/kechi2/",
+    "name": "ドケチ",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/chance/": {
+    "url": "http://rio2016.2ch.net/chance/",
+    "name": "懸賞",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/cigaret/": {
+    "url": "http://rio2016.2ch.net/cigaret/",
+    "name": "たばこ",
+    "unicode": "SUPPORTED"
+  },
+  "http://rio2016.2ch.net/megane/": {
+    "url": "http://rio2016.2ch.net/megane/",
+    "name": "めがね",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/yuusen/": {
+    "url": "http://rio2016.2ch.net/yuusen/",
+    "name": "マイライン",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/conv/": {
+    "url": "http://rio2016.2ch.net/conv/",
+    "name": "コンビニ",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/sale/": {
+    "url": "http://rio2016.2ch.net/sale/",
+    "name": "バーゲン",
+    "unicode": null
+  },
+  "http://mint.2ch.net/stationery/": {
+    "url": "http://mint.2ch.net/stationery/",
+    "name": "文房具",
+    "unicode": "SUPPORTED"
+  },
+  "http://rio2016.2ch.net/class/": {
+    "url": "http://rio2016.2ch.net/class/",
+    "name": "習い事",
+    "unicode": null
+  },
+  "http://echo.2ch.net/shar/": {
+    "url": "http://echo.2ch.net/shar/",
+    "name": "新シャア専用",
+    "unicode": "SUPPORTED"
+  },
+  "http://tamae.2ch.net/x3/": {
+    "url": "http://tamae.2ch.net/x3/",
+    "name": "旧シャア専用",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/denpa/": {
+    "url": "http://hanabi.2ch.net/denpa/",
+    "name": "電波・お花畑",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/owarai/": {
+    "url": "http://potato.2ch.net/owarai/",
+    "name": "お笑い小咄",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/2chbook/": {
+    "url": "http://tamae.2ch.net/2chbook/",
+    "name": "同人ノウハウ",
+    "unicode": null
+  },
+  "http://karma.2ch.net/uwasa/": {
+    "url": "http://karma.2ch.net/uwasa/",
+    "name": "噂話",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/charaneta/": {
+    "url": "http://tamae.2ch.net/charaneta/",
+    "name": "キャラネタ",
+    "unicode": "SUPPORTED"
+  },
+  "http://tamae.2ch.net/charaneta2/": {
+    "url": "http://tamae.2ch.net/charaneta2/",
+    "name": "なりきりネタ",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/mascot/": {
+    "url": "http://hanabi.2ch.net/mascot/",
+    "name": "マスコットキャラ",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/senji/": {
+    "url": "http://rio2016.2ch.net/senji/",
+    "name": "戦時",
+    "unicode": null
+  },
+  "http://echo.2ch.net/ex/": {
+    "url": "http://echo.2ch.net/ex/",
+    "name": "カップル",
+    "unicode": "SUPPORTED"
+  },
+  "http://rio2016.2ch.net/x1/": {
+    "url": "http://rio2016.2ch.net/x1/",
+    "name": "×１",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/gaysaloon/": {
+    "url": "http://tamae.2ch.net/gaysaloon/",
+    "name": "同性愛サロン",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/nohodame/": {
+    "url": "http://hayabusa6.2ch.net/nohodame/",
+    "name": "のほほんダメ",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/dame/": {
+    "url": "http://tamae.2ch.net/dame/",
+    "name": "無職・だめ",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/loser/": {
+    "url": "http://rio2016.2ch.net/loser/",
+    "name": "負け組",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/hikky/": {
+    "url": "http://hanabi.2ch.net/hikky/",
+    "name": "ヒッキー",
+    "unicode": null
+  },
+  "http://krsw.2ch.net/mental/": {
+    "url": "http://krsw.2ch.net/mental/",
+    "name": "メンヘルサロン",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/single/": {
+    "url": "http://hanabi.2ch.net/single/",
+    "name": "独身貴族",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/wom/": {
+    "url": "http://hayabusa6.2ch.net/wom/",
+    "name": "女性",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/sfe/": {
+    "url": "http://hayabusa6.2ch.net/sfe/",
+    "name": "独身女性限定",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/wmotenai/": {
+    "url": "http://tamae.2ch.net/wmotenai/",
+    "name": "もてない女",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/ms/": {
+    "url": "http://hanabi.2ch.net/ms/",
+    "name": "既婚女性",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/male/": {
+    "url": "http://mint.2ch.net/male/",
+    "name": "独身男性",
+    "unicode": "SUPPORTED"
+  },
+  "http://hanabi.2ch.net/motetai/": {
+    "url": "http://hanabi.2ch.net/motetai/",
+    "name": "もてたい男",
+    "unicode": null
+  },
+  "http://echo.2ch.net/motenai/": {
+    "url": "http://echo.2ch.net/motenai/",
+    "name": "モテない男性",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/alone/": {
+    "url": "http://rio2016.2ch.net/alone/",
+    "name": "孤独な男性",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/tomorrow/": {
+    "url": "http://hayabusa6.2ch.net/tomorrow/",
+    "name": "既婚男性",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/employee/": {
+    "url": "http://tamae.2ch.net/employee/",
+    "name": "リーマン",
+    "unicode": "SUPPORTED"
+  },
+  "http://rio2016.2ch.net/student/": {
+    "url": "http://rio2016.2ch.net/student/",
+    "name": "大学学部・研究",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/otaku/": {
+    "url": "http://hayabusa6.2ch.net/otaku/",
+    "name": "おたく",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/nendai/": {
+    "url": "http://hanabi.2ch.net/nendai/",
+    "name": "年代別",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/sepia/": {
+    "url": "http://rio2016.2ch.net/sepia/",
+    "name": "セピア",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/gag/": {
+    "url": "http://tamae.2ch.net/gag/",
+    "name": "駄洒落",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/575/": {
+    "url": "http://tamae.2ch.net/575/",
+    "name": "しりとり",
+    "unicode": "SUPPORTED"
+  },
+  "http://tamae.2ch.net/tanka/": {
+    "url": "http://tamae.2ch.net/tanka/",
+    "name": "五七五・短歌",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/4649/": {
+    "url": "http://tamae.2ch.net/4649/",
+    "name": "アウトロー",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/hidari/": {
+    "url": "http://hayabusa6.2ch.net/hidari/",
+    "name": "左利き",
+    "unicode": null
+  },
+  "http://carpenter.2ch.net/worldskb/": {
+    "url": "http://carpenter.2ch.net/worldskb/",
+    "name": "世界のスケベ",
+    "unicode": null
+  },
+  "http://headline.2ch.net/bbylive/": {
+    "url": "http://headline.2ch.net/bbylive/",
+    "name": "実況headline",
+    "unicode": null
+  },
+  "http://headline.2ch.net/bbylivej/": {
+    "url": "http://headline.2ch.net/bbylivej/",
+    "name": "なんJヘッドライン",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/livesaturn/": {
+    "url": "http://hayabusa6.2ch.net/livesaturn/",
+    "name": "なんでも実況S",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/livevenus/": {
+    "url": "http://hayabusa6.2ch.net/livevenus/",
+    "name": "なんでも実況V",
+    "unicode": null
+  },
+  "http://raptor.2ch.net/livejupiter/": {
+    "url": "http://raptor.2ch.net/livejupiter/",
+    "name": "なんでも実況J",
+    "unicode": "SUPPORTED"
+  },
+  "http://karma.2ch.net/liveuranus/": {
+    "url": "http://karma.2ch.net/liveuranus/",
+    "name": "なんでも実況U",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/endless/": {
+    "url": "http://hayabusa6.2ch.net/endless/",
+    "name": "実況ch",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa7.2ch.net/weekly/": {
+    "url": "http://hayabusa7.2ch.net/weekly/",
+    "name": "番組ch",
+    "unicode": "SUPPORTED"
+  },
+  "http://karma.2ch.net/livewar/": {
+    "url": "http://karma.2ch.net/livewar/",
+    "name": "戦場実況",
+    "unicode": "SUPPORTED"
+  },
+  "http://karma.2ch.net/livefield/": {
+    "url": "http://karma.2ch.net/livefield/",
+    "name": "現場実況",
+    "unicode": "SUPPORTED"
+  },
+  "http://karma.2ch.net/liveelection/": {
+    "url": "http://karma.2ch.net/liveelection/",
+    "name": "選挙実況",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa7.2ch.net/livewkwest/": {
+    "url": "http://hayabusa7.2ch.net/livewkwest/",
+    "name": "番組ch(西日本)",
+    "unicode": "SUPPORTED"
+  },
+  "http://nhk2.2ch.net/livenhk/": {
+    "url": "http://nhk2.2ch.net/livenhk/",
+    "name": "番組ch(NHK)",
+    "unicode": null
+  },
+  "http://nhk2.2ch.net/liveetv/": {
+    "url": "http://nhk2.2ch.net/liveetv/",
+    "name": "番組ch(教育)",
+    "unicode": null
+  },
+  "http://hayabusa7.2ch.net/liventv/": {
+    "url": "http://hayabusa7.2ch.net/liventv/",
+    "name": "番組ch(NTV)",
+    "unicode": null
+  },
+  "http://hayabusa7.2ch.net/livetbs/": {
+    "url": "http://hayabusa7.2ch.net/livetbs/",
+    "name": "番組ch(TBS)",
+    "unicode": null
+  },
+  "http://hayabusa7.2ch.net/livecx/": {
+    "url": "http://hayabusa7.2ch.net/livecx/",
+    "name": "番組ch(フジ)",
+    "unicode": null
+  },
+  "http://hayabusa7.2ch.net/liveanb/": {
+    "url": "http://hayabusa7.2ch.net/liveanb/",
+    "name": "番組ch(朝日)",
+    "unicode": null
+  },
+  "http://hayabusa7.2ch.net/livetx/": {
+    "url": "http://hayabusa7.2ch.net/livetx/",
+    "name": "番組ch(TX)",
+    "unicode": null
+  },
+  "http://karma.2ch.net/livemx/": {
+    "url": "http://karma.2ch.net/livemx/",
+    "name": "番組ch(MX)",
+    "unicode": "SUPPORTED"
+  },
+  "http://agree.2ch.net/liveabema/": {
+    "url": "http://agree.2ch.net/liveabema/",
+    "name": "番組ch(アベマ)",
+    "unicode": null
+  },
+  "http://nhk2.2ch.net/livebs/": {
+    "url": "http://nhk2.2ch.net/livebs/",
+    "name": "BS実況(NHK)",
+    "unicode": null
+  },
+  "http://tanuki.2ch.net/livebs2/": {
+    "url": "http://tanuki.2ch.net/livebs2/",
+    "name": "BS実況(無料)",
+    "unicode": null
+  },
+  "http://hayabusa7.2ch.net/livewowow/": {
+    "url": "http://hayabusa7.2ch.net/livewowow/",
+    "name": "BS実況(有料)",
+    "unicode": null
+  },
+  "http://hayabusa7.2ch.net/liveskyp/": {
+    "url": "http://hayabusa7.2ch.net/liveskyp/",
+    "name": "スカパー実況",
+    "unicode": null
+  },
+  "http://hayabusa7.2ch.net/liveradio/": {
+    "url": "http://hayabusa7.2ch.net/liveradio/",
+    "name": "ラジオ実況",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/liveanime/": {
+    "url": "http://hayabusa6.2ch.net/liveanime/",
+    "name": "アニメ特撮実況",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/kokkai/": {
+    "url": "http://hayabusa6.2ch.net/kokkai/",
+    "name": "議会選挙実況",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/dome/": {
+    "url": "http://hayabusa6.2ch.net/dome/",
+    "name": "スポーツch",
+    "unicode": "SUPPORTED"
+  },
+  "http://tanuki.2ch.net/livebase/": {
+    "url": "http://tanuki.2ch.net/livebase/",
+    "name": "野球ch",
+    "unicode": "SUPPORTED"
+  },
+  "http://rio2016.2ch.net/livefoot/": {
+    "url": "http://rio2016.2ch.net/livefoot/",
+    "name": "サッカーch",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/oonna/": {
+    "url": "http://hayabusa6.2ch.net/oonna/",
+    "name": "五輪実況(女)",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/ootoko/": {
+    "url": "http://hayabusa6.2ch.net/ootoko/",
+    "name": "五輪実況(男)",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/dancesite/": {
+    "url": "http://hayabusa6.2ch.net/dancesite/",
+    "name": "芸能ch",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/festival/": {
+    "url": "http://hayabusa6.2ch.net/festival/",
+    "name": "お祭りch",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/jasmine/": {
+    "url": "http://rio2016.2ch.net/jasmine/",
+    "name": "streaming実況",
+    "unicode": null
+  },
+  "http://agree.2ch.net/liveanarchy/": {
+    "url": "http://agree.2ch.net/liveanarchy/",
+    "name": "Anarchy実況",
+    "unicode": "SUPPORTED"
+  },
+  "http://karma.2ch.net/livesangyou/": {
+    "url": "http://karma.2ch.net/livesangyou/",
+    "name": "三行実況",
+    "unicode": "SUPPORTED"
+  },
+  "http://agree.2ch.net/liveyonmoji/": {
+    "url": "http://agree.2ch.net/liveyonmoji/",
+    "name": "四字実況",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/edu/": {
+    "url": "http://hayabusa6.2ch.net/edu/",
+    "name": "教育・先生",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/jsaloon/": {
+    "url": "http://tamae.2ch.net/jsaloon/",
+    "name": "大学受験サロン",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/kouri/": {
+    "url": "http://tamae.2ch.net/kouri/",
+    "name": "大学受験",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/juku/": {
+    "url": "http://hayabusa6.2ch.net/juku/",
+    "name": "学習塾・予備校",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/ojyuken/": {
+    "url": "http://hayabusa6.2ch.net/ojyuken/",
+    "name": "お受験",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/senmon/": {
+    "url": "http://hayabusa6.2ch.net/senmon/",
+    "name": "専門学校",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/design/": {
+    "url": "http://hayabusa6.2ch.net/design/",
+    "name": "美術系学校",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/musicology/": {
+    "url": "http://hayabusa6.2ch.net/musicology/",
+    "name": "音楽系学校",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/govexam/": {
+    "url": "http://tamae.2ch.net/govexam/",
+    "name": "公務員試験",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/hobby/": {
+    "url": "http://mint.2ch.net/hobby/",
+    "name": "趣味一般",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/magic/": {
+    "url": "http://hanabi.2ch.net/magic/",
+    "name": "手品・曲芸",
+    "unicode": null
+  },
+  "http://mint.2ch.net/card/": {
+    "url": "http://mint.2ch.net/card/",
+    "name": "カードゲーム",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/puzzle/": {
+    "url": "http://hanabi.2ch.net/puzzle/",
+    "name": "パズル",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/craft/": {
+    "url": "http://mint.2ch.net/craft/",
+    "name": "ハンドクラフト",
+    "unicode": null
+  },
+  "http://echo.2ch.net/toy/": {
+    "url": "http://echo.2ch.net/toy/",
+    "name": "おもちゃ",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/zoid/": {
+    "url": "http://mint.2ch.net/zoid/",
+    "name": "ゾイド",
+    "unicode": null
+  },
+  "http://mint.2ch.net/watch/": {
+    "url": "http://mint.2ch.net/watch/",
+    "name": "時計・小物",
+    "unicode": null
+  },
+  "http://mint.2ch.net/smoking/": {
+    "url": "http://mint.2ch.net/smoking/",
+    "name": "煙草銘柄・器具",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/knife/": {
+    "url": "http://hanabi.2ch.net/knife/",
+    "name": "刃物",
+    "unicode": null
+  },
+  "http://mint.2ch.net/doll/": {
+    "url": "http://mint.2ch.net/doll/",
+    "name": "お人形",
+    "unicode": null
+  },
+  "http://mint.2ch.net/engei/": {
+    "url": "http://mint.2ch.net/engei/",
+    "name": "園芸",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/dog/": {
+    "url": "http://hayabusa6.2ch.net/dog/",
+    "name": "犬猫大好き",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/pet/": {
+    "url": "http://hayabusa6.2ch.net/pet/",
+    "name": "ペット大好き",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/aquarium/": {
+    "url": "http://mint.2ch.net/aquarium/",
+    "name": "アクアリウム",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/cat/": {
+    "url": "http://hanabi.2ch.net/cat/",
+    "name": "生き物苦手",
+    "unicode": null
+  },
+  "http://potato.2ch.net/bike/": {
+    "url": "http://potato.2ch.net/bike/",
+    "name": "バイク",
+    "unicode": "SUPPORTED"
+  },
+  "http://krsw.2ch.net/motorbike/": {
+    "url": "http://krsw.2ch.net/motorbike/",
+    "name": "バイク車種ﾒｰｶｰ",
+    "unicode": "SUPPORTED"
+  },
+  "http://tamae.2ch.net/car/": {
+    "url": "http://tamae.2ch.net/car/",
+    "name": "車",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/kcar/": {
+    "url": "http://hayabusa6.2ch.net/kcar/",
+    "name": "軽自動車",
+    "unicode": null
+  },
+  "http://karma.2ch.net/auto/": {
+    "url": "http://karma.2ch.net/auto/",
+    "name": "車種・車メーカー",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/usedcar/": {
+    "url": "http://hayabusa6.2ch.net/usedcar/",
+    "name": "中古車",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/truck/": {
+    "url": "http://hayabusa6.2ch.net/truck/",
+    "name": "大型・特殊車両",
+    "unicode": null
+  },
+  "http://echo.2ch.net/army/": {
+    "url": "http://echo.2ch.net/army/",
+    "name": "軍事",
+    "unicode": null
+  },
+  "http://mint.2ch.net/radio/": {
+    "url": "http://mint.2ch.net/radio/",
+    "name": "無線",
+    "unicode": null
+  },
+  "http://echo.2ch.net/train/": {
+    "url": "http://echo.2ch.net/train/",
+    "name": "鉄道総合",
+    "unicode": "SUPPORTED"
+  },
+  "http://echo.2ch.net/rail/": {
+    "url": "http://echo.2ch.net/rail/",
+    "name": "鉄道路線・車両",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/jnr/": {
+    "url": "http://hayabusa6.2ch.net/jnr/",
+    "name": "鉄道懐かし",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/ice/": {
+    "url": "http://hanabi.2ch.net/ice/",
+    "name": "鉄道(海外)",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/gage/": {
+    "url": "http://hanabi.2ch.net/gage/",
+    "name": "鉄道模型",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/bus/": {
+    "url": "http://hayabusa6.2ch.net/bus/",
+    "name": "バス・バス路線",
+    "unicode": null
+  },
+  "http://mint.2ch.net/airline/": {
+    "url": "http://mint.2ch.net/airline/",
+    "name": "エアライン",
+    "unicode": null
+  },
+  "http://mint.2ch.net/mokei/": {
+    "url": "http://mint.2ch.net/mokei/",
+    "name": "模型・プラモ",
+    "unicode": "SUPPORTED"
+  },
+  "http://hanabi.2ch.net/radiocontrol/": {
+    "url": "http://hanabi.2ch.net/radiocontrol/",
+    "name": "RC（ラジコン)",
+    "unicode": null
+  },
+  "http://mint.2ch.net/gun/": {
+    "url": "http://mint.2ch.net/gun/",
+    "name": "サバゲー",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/fireworks/": {
+    "url": "http://hanabi.2ch.net/fireworks/",
+    "name": "花火",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/warhis/": {
+    "url": "http://hayabusa6.2ch.net/warhis/",
+    "name": "三国志・戦国",
+    "unicode": "SUPPORTED"
+  },
+  "http://hanabi.2ch.net/chinahero/": {
+    "url": "http://hanabi.2ch.net/chinahero/",
+    "name": "中国英雄",
+    "unicode": "SUPPORTED"
+  },
+  "http://hanabi.2ch.net/sengoku/": {
+    "url": "http://hanabi.2ch.net/sengoku/",
+    "name": "戦国時代",
+    "unicode": "SUPPORTED"
+  },
+  "http://hanabi.2ch.net/nanminhis/": {
+    "url": "http://hanabi.2ch.net/nanminhis/",
+    "name": "歴史難民",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/dance/": {
+    "url": "http://mint.2ch.net/dance/",
+    "name": "ダンス",
+    "unicode": null
+  },
+  "http://karma.2ch.net/yoga/": {
+    "url": "http://karma.2ch.net/yoga/",
+    "name": "ヨガ",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/bird/": {
+    "url": "http://mint.2ch.net/bird/",
+    "name": "野鳥観察",
+    "unicode": null
+  },
+  "http://mint.2ch.net/collect/": {
+    "url": "http://mint.2ch.net/collect/",
+    "name": "コレクション",
+    "unicode": "SUPPORTED"
+  },
+  "http://hanabi.2ch.net/photo/": {
+    "url": "http://hanabi.2ch.net/photo/",
+    "name": "写真撮影",
+    "unicode": null
+  },
+  "http://agree.2ch.net/oekaki/": {
+    "url": "http://agree.2ch.net/oekaki/",
+    "name": "お絵描き",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/sposaloon/": {
+    "url": "http://hayabusa6.2ch.net/sposaloon/",
+    "name": "スポーツサロン",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/sports/": {
+    "url": "http://hayabusa6.2ch.net/sports/",
+    "name": "スポーツ",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/rsports/": {
+    "url": "http://hayabusa6.2ch.net/rsports/",
+    "name": "懐かしスポーツ",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/stadium/": {
+    "url": "http://hayabusa6.2ch.net/stadium/",
+    "name": "スポーツ施設",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/athletics/": {
+    "url": "http://tamae.2ch.net/athletics/",
+    "name": "陸上競技",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/gymnastics/": {
+    "url": "http://hayabusa6.2ch.net/gymnastics/",
+    "name": "体操・新体操",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/muscle/": {
+    "url": "http://hayabusa6.2ch.net/muscle/",
+    "name": "ウエイトトレ",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/noroma/": {
+    "url": "http://hayabusa6.2ch.net/noroma/",
+    "name": "運動音痴",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/wsports/": {
+    "url": "http://hayabusa6.2ch.net/wsports/",
+    "name": "冬スポーツ",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/ski/": {
+    "url": "http://hayabusa6.2ch.net/ski/",
+    "name": "スキースノボ",
+    "unicode": "SUPPORTED"
+  },
+  "http://echo.2ch.net/skate/": {
+    "url": "http://echo.2ch.net/skate/",
+    "name": "スケート",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/swim/": {
+    "url": "http://hayabusa6.2ch.net/swim/",
+    "name": "水泳",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/msports/": {
+    "url": "http://hayabusa6.2ch.net/msports/",
+    "name": "マリンスポーツ",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/boat/": {
+    "url": "http://hayabusa6.2ch.net/boat/",
+    "name": "船スポーツ",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/birdman/": {
+    "url": "http://hayabusa6.2ch.net/birdman/",
+    "name": "空スポーツ",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/fish/": {
+    "url": "http://tamae.2ch.net/fish/",
+    "name": "釣り",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/bass/": {
+    "url": "http://hayabusa6.2ch.net/bass/",
+    "name": "バス釣り",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/bicycle/": {
+    "url": "http://tamae.2ch.net/bicycle/",
+    "name": "自転車",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/equestrian/": {
+    "url": "http://hayabusa6.2ch.net/equestrian/",
+    "name": "乗馬・馬術",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/f1/": {
+    "url": "http://hayabusa6.2ch.net/f1/",
+    "name": "ﾓｰﾀｰｽﾎﾟｰﾂ",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/olympic/": {
+    "url": "http://hayabusa6.2ch.net/olympic/",
+    "name": "オリンピック",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/bullseye/": {
+    "url": "http://hayabusa6.2ch.net/bullseye/",
+    "name": "的スポーツ",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/parksports/": {
+    "url": "http://hayabusa6.2ch.net/parksports/",
+    "name": "公園スポーツ",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/amespo/": {
+    "url": "http://hayabusa6.2ch.net/amespo/",
+    "name": "アメスポ",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/cheerleading/": {
+    "url": "http://hayabusa6.2ch.net/cheerleading/",
+    "name": "チア",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/xsports/": {
+    "url": "http://hayabusa6.2ch.net/xsports/",
+    "name": "xsports",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/base/": {
+    "url": "http://rio2016.2ch.net/base/",
+    "name": "プロ野球",
+    "unicode": "SUPPORTED"
+  },
+  "http://tamae.2ch.net/npb/": {
+    "url": "http://tamae.2ch.net/npb/",
+    "name": "球界改革議論",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/meikyu/": {
+    "url": "http://rio2016.2ch.net/meikyu/",
+    "name": "野球殿堂",
+    "unicode": null
+  },
+  "http://mint.2ch.net/mlb/": {
+    "url": "http://mint.2ch.net/mlb/",
+    "name": "野球総合",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/hsb/": {
+    "url": "http://tamae.2ch.net/hsb/",
+    "name": "高校野球",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/kyozin/": {
+    "url": "http://tamae.2ch.net/kyozin/",
+    "name": "アンチ球団",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/soccer/": {
+    "url": "http://hanabi.2ch.net/soccer/",
+    "name": "国内サッカー",
+    "unicode": "SUPPORTED"
+  },
+  "http://echo.2ch.net/eleven/": {
+    "url": "http://echo.2ch.net/eleven/",
+    "name": "日本代表蹴球",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/wc/": {
+    "url": "http://rio2016.2ch.net/wc/",
+    "name": "ワールドカップ",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/football/": {
+    "url": "http://hanabi.2ch.net/football/",
+    "name": "海外サッカー",
+    "unicode": "SUPPORTED"
+  },
+  "http://tamae.2ch.net/basket/": {
+    "url": "http://tamae.2ch.net/basket/",
+    "name": "バスケット",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/tennis/": {
+    "url": "http://hayabusa6.2ch.net/tennis/",
+    "name": "テニス",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/volley/": {
+    "url": "http://hayabusa6.2ch.net/volley/",
+    "name": "バレーボール",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/ovalball/": {
+    "url": "http://hayabusa6.2ch.net/ovalball/",
+    "name": "ラグビー",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/pingpong/": {
+    "url": "http://hayabusa6.2ch.net/pingpong/",
+    "name": "卓球",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/gutter/": {
+    "url": "http://hayabusa6.2ch.net/gutter/",
+    "name": "ボウリング",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/golf/": {
+    "url": "http://hayabusa6.2ch.net/golf/",
+    "name": "ゴルフ",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/billiards/": {
+    "url": "http://hayabusa6.2ch.net/billiards/",
+    "name": "ビリヤード",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/ballgame/": {
+    "url": "http://hayabusa6.2ch.net/ballgame/",
+    "name": "その他球技",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/k1/": {
+    "url": "http://tamae.2ch.net/k1/",
+    "name": "格闘技",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/wres/": {
+    "url": "http://tamae.2ch.net/wres/",
+    "name": "プロレス",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/budou/": {
+    "url": "http://hayabusa6.2ch.net/budou/",
+    "name": "武道・武芸",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/boxing/": {
+    "url": "http://tamae.2ch.net/boxing/",
+    "name": "ボクシング",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/sumou/": {
+    "url": "http://hayabusa6.2ch.net/sumou/",
+    "name": "相撲",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/jyudo/": {
+    "url": "http://hayabusa6.2ch.net/jyudo/",
+    "name": "伝統武術",
+    "unicode": null
+  },
+  "http://krsw.2ch.net/mma/": {
+    "url": "http://krsw.2ch.net/mma/",
+    "name": "MMA",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/oversea/": {
+    "url": "http://hanabi.2ch.net/oversea/",
+    "name": "海外旅行",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/21oversea/": {
+    "url": "http://potato.2ch.net/21oversea/",
+    "name": "危ない海外",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/travel/": {
+    "url": "http://hanabi.2ch.net/travel/",
+    "name": "国内旅行",
+    "unicode": "SUPPORTED"
+  },
+  "http://hanabi.2ch.net/hotel/": {
+    "url": "http://hanabi.2ch.net/hotel/",
+    "name": "ホテル･旅館",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/localfoods/": {
+    "url": "http://hanabi.2ch.net/localfoods/",
+    "name": "土産物・特産物",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/tropical/": {
+    "url": "http://hanabi.2ch.net/tropical/",
+    "name": "トロピカル",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/onsen/": {
+    "url": "http://hanabi.2ch.net/onsen/",
+    "name": "温泉",
+    "unicode": null
+  },
+  "http://echo.2ch.net/park/": {
+    "url": "http://echo.2ch.net/park/",
+    "name": "遊園地",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/zoo/": {
+    "url": "http://hanabi.2ch.net/zoo/",
+    "name": "動物園・水族館",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/museum/": {
+    "url": "http://hanabi.2ch.net/museum/",
+    "name": "博物館・美術館",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/out/": {
+    "url": "http://hanabi.2ch.net/out/",
+    "name": "登山キャンプ",
+    "unicode": null
+  },
+  "http://karma.2ch.net/sapa/": {
+    "url": "http://karma.2ch.net/sapa/",
+    "name": "道の駅",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/tvsaloon/": {
+    "url": "http://potato.2ch.net/tvsaloon/",
+    "name": "テレビサロン",
+    "unicode": "SUPPORTED"
+  },
+  "http://rio2016.2ch.net/kouhaku/": {
+    "url": "http://rio2016.2ch.net/kouhaku/",
+    "name": "年末年始番組",
+    "unicode": null
+  },
+  "http://echo.2ch.net/tv/": {
+    "url": "http://echo.2ch.net/tv/",
+    "name": "テレビ番組",
+    "unicode": "SUPPORTED"
+  },
+  "http://hanabi.2ch.net/natsutv/": {
+    "url": "http://hanabi.2ch.net/natsutv/",
+    "name": "懐かしテレビ",
+    "unicode": null
+  },
+  "http://mint.2ch.net/tvd/": {
+    "url": "http://mint.2ch.net/tvd/",
+    "name": "テレビドラマ",
+    "unicode": null
+  },
+  "http://nhk2.2ch.net/nhkdrama/": {
+    "url": "http://nhk2.2ch.net/nhkdrama/",
+    "name": "大河ドラマ",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/natsudora/": {
+    "url": "http://hanabi.2ch.net/natsudora/",
+    "name": "懐かしドラマ",
+    "unicode": null
+  },
+  "http://potato.2ch.net/kin/": {
+    "url": "http://potato.2ch.net/kin/",
+    "name": "時代劇",
+    "unicode": null
+  },
+  "http://potato.2ch.net/radiosaloon/": {
+    "url": "http://potato.2ch.net/radiosaloon/",
+    "name": "ラジオサロン",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/am/": {
+    "url": "http://potato.2ch.net/am/",
+    "name": "ラジオ番組",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/rradio/": {
+    "url": "http://rio2016.2ch.net/rradio/",
+    "name": "懐かしラジオ",
+    "unicode": null
+  },
+  "http://potato.2ch.net/tv2/": {
+    "url": "http://potato.2ch.net/tv2/",
+    "name": "海外テレビ",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/hanryu/": {
+    "url": "http://rio2016.2ch.net/hanryu/",
+    "name": "韓流",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/cs/": {
+    "url": "http://potato.2ch.net/cs/",
+    "name": "ケーブル放送",
+    "unicode": null
+  },
+  "http://potato.2ch.net/skyp/": {
+    "url": "http://potato.2ch.net/skyp/",
+    "name": "スカパー",
+    "unicode": null
+  },
+  "http://potato.2ch.net/bs/": {
+    "url": "http://potato.2ch.net/bs/",
+    "name": "デジタル放送",
+    "unicode": null
+  },
+  "http://nhk2.2ch.net/nhk/": {
+    "url": "http://nhk2.2ch.net/nhk/",
+    "name": "NHK",
+    "unicode": null
+  },
+  "http://potato.2ch.net/cm/": {
+    "url": "http://potato.2ch.net/cm/",
+    "name": "広告・ＣＭ",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/geino/": {
+    "url": "http://potato.2ch.net/geino/",
+    "name": "芸能",
+    "unicode": null
+  },
+  "http://potato.2ch.net/celebrity/": {
+    "url": "http://potato.2ch.net/celebrity/",
+    "name": "海外芸能人",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/4sama/": {
+    "url": "http://rio2016.2ch.net/4sama/",
+    "name": "アジアエンタメ",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/kyon2/": {
+    "url": "http://potato.2ch.net/kyon2/",
+    "name": "懐かし芸能人",
+    "unicode": null
+  },
+  "http://potato.2ch.net/actor/": {
+    "url": "http://potato.2ch.net/actor/",
+    "name": "男性俳優",
+    "unicode": null
+  },
+  "http://potato.2ch.net/actress/": {
+    "url": "http://potato.2ch.net/actress/",
+    "name": "女優",
+    "unicode": null
+  },
+  "http://echo.2ch.net/geinin/": {
+    "url": "http://echo.2ch.net/geinin/",
+    "name": "お笑い芸人",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/ana/": {
+    "url": "http://tamae.2ch.net/ana/",
+    "name": "アナウンサー",
+    "unicode": null
+  },
+  "http://potato.2ch.net/ami/": {
+    "url": "http://potato.2ch.net/ami/",
+    "name": "あみ＆あゆ",
+    "unicode": null
+  },
+  "http://potato.2ch.net/apple/": {
+    "url": "http://potato.2ch.net/apple/",
+    "name": "椎名林檎",
+    "unicode": null
+  },
+  "http://potato.2ch.net/mendol/": {
+    "url": "http://potato.2ch.net/mendol/",
+    "name": "男性アイドル",
+    "unicode": null
+  },
+  "http://karma.2ch.net/idol/": {
+    "url": "http://karma.2ch.net/idol/",
+    "name": "女性アイドル",
+    "unicode": null
+  },
+  "http://potato.2ch.net/geinoj/": {
+    "url": "http://potato.2ch.net/geinoj/",
+    "name": "U-15タレント",
+    "unicode": null
+  },
+  "http://potato.2ch.net/ainotane/": {
+    "url": "http://potato.2ch.net/ainotane/",
+    "name": "モ娘（羊）",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/zurui/": {
+    "url": "http://potato.2ch.net/zurui/",
+    "name": "モ娘（鳩）",
+    "unicode": "SUPPORTED"
+  },
+  "http://hanabi.2ch.net/morningcoffee/": {
+    "url": "http://hanabi.2ch.net/morningcoffee/",
+    "name": "モ娘（狼）",
+    "unicode": "SUPPORTED"
+  },
+  "http://karma.2ch.net/momoclo/": {
+    "url": "http://karma.2ch.net/momoclo/",
+    "name": "ももクロ",
+    "unicode": "SUPPORTED"
+  },
+  "http://karma.2ch.net/babymetal/": {
+    "url": "http://karma.2ch.net/babymetal/",
+    "name": "BABYMETAL",
+    "unicode": "SUPPORTED"
+  },
+  "http://krsw.2ch.net/exile/": {
+    "url": "http://krsw.2ch.net/exile/",
+    "name": "EXILE",
+    "unicode": null
+  },
+  "http://potato.2ch.net/smap/": {
+    "url": "http://potato.2ch.net/smap/",
+    "name": "スマップ",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/jan/": {
+    "url": "http://potato.2ch.net/jan/",
+    "name": "ジャニーズ",
+    "unicode": null
+  },
+  "http://potato.2ch.net/jr/": {
+    "url": "http://potato.2ch.net/jr/",
+    "name": "ジャニーズ２",
+    "unicode": null
+  },
+  "http://potato.2ch.net/jr2/": {
+    "url": "http://potato.2ch.net/jr2/",
+    "name": "ジャニーズJr",
+    "unicode": null
+  },
+  "http://shiba.2ch.net/akb/": {
+    "url": "http://shiba.2ch.net/akb/",
+    "name": "地下アイドル(AKB48)",
+    "unicode": "SUPPORTED"
+  },
+  "http://carpenter.2ch.net/akbsaloon/": {
+    "url": "http://carpenter.2ch.net/akbsaloon/",
+    "name": "AKBサロン(表)",
+    "unicode": null
+  },
+  "http://mint.2ch.net/uraidol/": {
+    "url": "http://mint.2ch.net/uraidol/",
+    "name": "AKBサロン(裏)",
+    "unicode": "SUPPORTED"
+  },
+  "http://carpenter.2ch.net/world48/": {
+    "url": "http://carpenter.2ch.net/world48/",
+    "name": "海外AKB48G",
+    "unicode": "SUPPORTED"
+  },
+  "http://echo.2ch.net/nogizaka/": {
+    "url": "http://echo.2ch.net/nogizaka/",
+    "name": "乃木坂46",
+    "unicode": "SUPPORTED"
+  },
+  "http://rio2016.2ch.net/keyakizaka46/": {
+    "url": "http://rio2016.2ch.net/keyakizaka46/",
+    "name": "欅坂46",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/ske/": {
+    "url": "http://rio2016.2ch.net/ske/",
+    "name": "SKE48",
+    "unicode": null
+  },
+  "http://karma.2ch.net/sdn/": {
+    "url": "http://karma.2ch.net/sdn/",
+    "name": "SDN48",
+    "unicode": "SUPPORTED"
+  },
+  "http://tamae.2ch.net/nmb/": {
+    "url": "http://tamae.2ch.net/nmb/",
+    "name": "NMB48",
+    "unicode": "SUPPORTED"
+  },
+  "http://krsw.2ch.net/hkt/": {
+    "url": "http://krsw.2ch.net/hkt/",
+    "name": "HKT48",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/ngt/": {
+    "url": "http://hayabusa6.2ch.net/ngt/",
+    "name": "NGT48",
+    "unicode": "SUPPORTED"
+  },
+  "http://krsw.2ch.net/teamcrerekko/": {
+    "url": "http://krsw.2ch.net/teamcrerekko/",
+    "name": "くれれっ娘",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/netidol/": {
+    "url": "http://potato.2ch.net/netidol/",
+    "name": "ネットアイドル",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/indieidol/": {
+    "url": "http://potato.2ch.net/indieidol/",
+    "name": "インディーアイドル",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/mj/": {
+    "url": "http://potato.2ch.net/mj/",
+    "name": "麻雀・他",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/pachi/": {
+    "url": "http://tamae.2ch.net/pachi/",
+    "name": "パチンコサロン",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/pachij/": {
+    "url": "http://tamae.2ch.net/pachij/",
+    "name": "パチンコ店情報",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/pachik/": {
+    "url": "http://tamae.2ch.net/pachik/",
+    "name": "パチンコ機種等",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/slot/": {
+    "url": "http://tamae.2ch.net/slot/",
+    "name": "スロットサロン",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/slotj/": {
+    "url": "http://tamae.2ch.net/slotj/",
+    "name": "スロット店情報",
+    "unicode": null
+  },
+  "http://potato.2ch.net/slotk/": {
+    "url": "http://potato.2ch.net/slotk/",
+    "name": "スロット機種",
+    "unicode": null
+  },
+  "http://mint.2ch.net/keiba/": {
+    "url": "http://mint.2ch.net/keiba/",
+    "name": "競馬",
+    "unicode": "SUPPORTED"
+  },
+  "http://tamae.2ch.net/uma/": {
+    "url": "http://tamae.2ch.net/uma/",
+    "name": "競馬２",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/keirin/": {
+    "url": "http://hayabusa6.2ch.net/keirin/",
+    "name": "競輪",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/kyotei/": {
+    "url": "http://tamae.2ch.net/kyotei/",
+    "name": "競艇",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/autorace/": {
+    "url": "http://hayabusa6.2ch.net/autorace/",
+    "name": "オートレース",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/gamble/": {
+    "url": "http://hayabusa6.2ch.net/gamble/",
+    "name": "ギャンブル",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/loto/": {
+    "url": "http://hayabusa6.2ch.net/loto/",
+    "name": "宝くじ",
+    "unicode": null
+  },
+  "http://headline.2ch.net/bbygame1/": {
+    "url": "http://headline.2ch.net/bbygame1/",
+    "name": "ゲームヘッドライン",
+    "unicode": null
+  },
+  "http://headline.2ch.net/bbygame2/": {
+    "url": "http://headline.2ch.net/bbygame2/",
+    "name": "ゲーム個別ヘッドライン",
+    "unicode": null
+  },
+  "http://headline.2ch.net/bbygame3/": {
+    "url": "http://headline.2ch.net/bbygame3/",
+    "name": "ゲーム総合ヘッドライン",
+    "unicode": null
+  },
+  "http://echo.2ch.net/gsaloon/": {
+    "url": "http://echo.2ch.net/gsaloon/",
+    "name": "ゲームサロン",
+    "unicode": "SUPPORTED"
+  },
+  "http://tamae.2ch.net/gameover/": {
+    "url": "http://tamae.2ch.net/gameover/",
+    "name": "家ゲー攻略",
+    "unicode": "SUPPORTED"
+  },
+  "http://tamae.2ch.net/goveract/": {
+    "url": "http://tamae.2ch.net/goveract/",
+    "name": "家ゲACT攻略",
+    "unicode": "SUPPORTED"
+  },
+  "http://tamae.2ch.net/goverrpg/": {
+    "url": "http://tamae.2ch.net/goverrpg/",
+    "name": "家ゲRPG攻略",
+    "unicode": null
+  },
+  "http://krsw.2ch.net/gamesm/": {
+    "url": "http://krsw.2ch.net/gamesm/",
+    "name": "スマホゲーム",
+    "unicode": "SUPPORTED"
+  },
+  "http://shiba.2ch.net/gamerpg/": {
+    "url": "http://shiba.2ch.net/gamerpg/",
+    "name": "家ゲーRPG",
+    "unicode": null
+  },
+  "http://krsw.2ch.net/ff/": {
+    "url": "http://krsw.2ch.net/ff/",
+    "name": "FF・ドラクエ",
+    "unicode": "SUPPORTED"
+  },
+  "http://tamae.2ch.net/gamesrpg/": {
+    "url": "http://tamae.2ch.net/gamesrpg/",
+    "name": "家ゲーSRPG",
+    "unicode": null
+  },
+  "http://echo.2ch.net/gamerobo/": {
+    "url": "http://echo.2ch.net/gamerobo/",
+    "name": "ロボットゲー",
+    "unicode": null
+  },
+  "http://echo.2ch.net/gal/": {
+    "url": "http://echo.2ch.net/gal/",
+    "name": "ギャルゲー",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/ggirl/": {
+    "url": "http://tamae.2ch.net/ggirl/",
+    "name": "女向ゲー一般",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/gamespo/": {
+    "url": "http://tamae.2ch.net/gamespo/",
+    "name": "スポーツ・RACE",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/gamehis/": {
+    "url": "http://tamae.2ch.net/gamehis/",
+    "name": "歴史ゲーム",
+    "unicode": "SUPPORTED"
+  },
+  "http://tamae.2ch.net/otoge/": {
+    "url": "http://tamae.2ch.net/otoge/",
+    "name": "音ゲー",
+    "unicode": "SUPPORTED"
+  },
+  "http://hanabi.2ch.net/gamefight/": {
+    "url": "http://hanabi.2ch.net/gamefight/",
+    "name": "格闘ゲーム",
+    "unicode": "SUPPORTED"
+  },
+  "http://tamae.2ch.net/gamestg/": {
+    "url": "http://tamae.2ch.net/gamestg/",
+    "name": "シューティング",
+    "unicode": null
+  },
+  "http://karma.2ch.net/gamef/": {
+    "url": "http://karma.2ch.net/gamef/",
+    "name": "PCアクション",
+    "unicode": null
+  },
+  "http://karma.2ch.net/touhou/": {
+    "url": "http://karma.2ch.net/touhou/",
+    "name": "東方project",
+    "unicode": "SUPPORTED"
+  },
+  "http://tamae.2ch.net/fly/": {
+    "url": "http://tamae.2ch.net/fly/",
+    "name": "フライトシム",
+    "unicode": "SUPPORTED"
+  },
+  "http://shiba.2ch.net/famicom/": {
+    "url": "http://shiba.2ch.net/famicom/",
+    "name": "家庭用ゲーム",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/zgame/": {
+    "url": "http://potato.2ch.net/zgame/",
+    "name": "家ゲーZ区分",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/retro/": {
+    "url": "http://tamae.2ch.net/retro/",
+    "name": "レトロゲーム",
+    "unicode": "SUPPORTED"
+  },
+  "http://tamae.2ch.net/retro2/": {
+    "url": "http://tamae.2ch.net/retro2/",
+    "name": "家ゲーレトロ",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/game90/": {
+    "url": "http://tamae.2ch.net/game90/",
+    "name": "レトロ32bit以上",
+    "unicode": null
+  },
+  "http://echo.2ch.net/arc/": {
+    "url": "http://echo.2ch.net/arc/",
+    "name": "アーケード",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/rarc/": {
+    "url": "http://potato.2ch.net/rarc/",
+    "name": "アケゲーレトロ",
+    "unicode": "SUPPORTED"
+  },
+  "http://tamae.2ch.net/amusement/": {
+    "url": "http://tamae.2ch.net/amusement/",
+    "name": "メダル・プライズ",
+    "unicode": "SUPPORTED"
+  },
+  "http://tamae.2ch.net/gecen/": {
+    "url": "http://tamae.2ch.net/gecen/",
+    "name": "ゲーセン",
+    "unicode": null
+  },
+  "http://potato.2ch.net/game/": {
+    "url": "http://potato.2ch.net/game/",
+    "name": "PCゲーム",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/gameama/": {
+    "url": "http://hayabusa6.2ch.net/gameama/",
+    "name": "同人ゲーム",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/gameswf/": {
+    "url": "http://rio2016.2ch.net/gameswf/",
+    "name": "ブラウザゲーム",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/cgame/": {
+    "url": "http://tamae.2ch.net/cgame/",
+    "name": "卓上ゲーム",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/tcg/": {
+    "url": "http://potato.2ch.net/tcg/",
+    "name": "TCG",
+    "unicode": null
+  },
+  "http://echo.2ch.net/bgame/": {
+    "url": "http://echo.2ch.net/bgame/",
+    "name": "将棋・チェス",
+    "unicode": "SUPPORTED"
+  },
+  "http://tamae.2ch.net/gamestones/": {
+    "url": "http://tamae.2ch.net/gamestones/",
+    "name": "囲碁・オセロ",
+    "unicode": "SUPPORTED"
+  },
+  "http://tamae.2ch.net/quiz/": {
+    "url": "http://tamae.2ch.net/quiz/",
+    "name": "クイズ雑学",
+    "unicode": null
+  },
+  "http://krsw.2ch.net/ghard/": {
+    "url": "http://krsw.2ch.net/ghard/",
+    "name": "ハード・業界",
+    "unicode": "SUPPORTED"
+  },
+  "http://karma.2ch.net/hunter/": {
+    "url": "http://karma.2ch.net/hunter/",
+    "name": "モンハン",
+    "unicode": "SUPPORTED"
+  },
+  "http://tamae.2ch.net/gameurawaza/": {
+    "url": "http://tamae.2ch.net/gameurawaza/",
+    "name": "裏技・改造",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/gamechara/": {
+    "url": "http://tamae.2ch.net/gamechara/",
+    "name": "ゲームキャラ",
+    "unicode": "SUPPORTED"
+  },
+  "http://tamae.2ch.net/gamemusic/": {
+    "url": "http://tamae.2ch.net/gamemusic/",
+    "name": "ゲーム音楽",
+    "unicode": null
+  },
+  "http://krsw.2ch.net/minecraft/": {
+    "url": "http://krsw.2ch.net/minecraft/",
+    "name": "Minecraft",
+    "unicode": "SUPPORTED"
+  },
+  "http://krsw.2ch.net/aimasu/": {
+    "url": "http://krsw.2ch.net/aimasu/",
+    "name": "アイドルマスター",
+    "unicode": "SUPPORTED"
+  },
+  "http://karma.2ch.net/yugioh/": {
+    "url": "http://karma.2ch.net/yugioh/",
+    "name": "遊戯王",
+    "unicode": "SUPPORTED"
+  },
+  "http://krsw.2ch.net/pokego/": {
+    "url": "http://krsw.2ch.net/pokego/",
+    "name": "ポケモンGO",
+    "unicode": "SUPPORTED"
+  },
+  "http://krsw.2ch.net/steam/": {
+    "url": "http://krsw.2ch.net/steam/",
+    "name": "Steam",
+    "unicode": null
+  },
+  "http://krsw.2ch.net/handygame/": {
+    "url": "http://krsw.2ch.net/handygame/",
+    "name": "携帯ゲーソフト",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/handygover/": {
+    "url": "http://tamae.2ch.net/handygover/",
+    "name": "携帯ゲー攻略",
+    "unicode": null
+  },
+  "http://echo.2ch.net/handygrpg/": {
+    "url": "http://echo.2ch.net/handygrpg/",
+    "name": "携帯ゲーRPG",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/poke/": {
+    "url": "http://tamae.2ch.net/poke/",
+    "name": "ポケモン",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/wifi/": {
+    "url": "http://tamae.2ch.net/wifi/",
+    "name": "Wi-Fi",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/rhandyg/": {
+    "url": "http://tamae.2ch.net/rhandyg/",
+    "name": "携帯ゲーレトロ",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/pokechara/": {
+    "url": "http://tamae.2ch.net/pokechara/",
+    "name": "携帯ゲーキャラ",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/mmonews/": {
+    "url": "http://hayabusa6.2ch.net/mmonews/",
+    "name": "ネトゲ速報",
+    "unicode": "SUPPORTED"
+  },
+  "http://tamae.2ch.net/mmoqa/": {
+    "url": "http://tamae.2ch.net/mmoqa/",
+    "name": "ネトゲ質問",
+    "unicode": "SUPPORTED"
+  },
+  "http://hanabi.2ch.net/ogame/": {
+    "url": "http://hanabi.2ch.net/ogame/",
+    "name": "ネトゲ実況",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/ogame2/": {
+    "url": "http://mint.2ch.net/ogame2/",
+    "name": "ネトゲ実況2",
+    "unicode": null
+  },
+  "http://mint.2ch.net/ogame3/": {
+    "url": "http://mint.2ch.net/ogame3/",
+    "name": "ネトゲ実況3",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/mmosaloon/": {
+    "url": "http://tamae.2ch.net/mmosaloon/",
+    "name": "ネトゲサロン",
+    "unicode": null
+  },
+  "http://krsw.2ch.net/netgame/": {
+    "url": "http://krsw.2ch.net/netgame/",
+    "name": "ネットゲーム",
+    "unicode": "SUPPORTED"
+  },
+  "http://echo.2ch.net/mmo/": {
+    "url": "http://echo.2ch.net/mmo/",
+    "name": "大規模MMO",
+    "unicode": "SUPPORTED"
+  },
+  "http://tamae.2ch.net/mmominor/": {
+    "url": "http://tamae.2ch.net/mmominor/",
+    "name": "小規模MMO",
+    "unicode": null
+  },
+  "http://potato.2ch.net/pso/": {
+    "url": "http://potato.2ch.net/pso/",
+    "name": "PSO",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/dqo/": {
+    "url": "http://potato.2ch.net/dqo/",
+    "name": "DQO",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/ffo/": {
+    "url": "http://potato.2ch.net/ffo/",
+    "name": "FFO",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/asaloon/": {
+    "url": "http://mint.2ch.net/asaloon/",
+    "name": "アニメサロン",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/anime4vip/": {
+    "url": "http://rio2016.2ch.net/anime4vip/",
+    "name": "アニメサロンex",
+    "unicode": "SUPPORTED"
+  },
+  "http://shiba.2ch.net/anime/": {
+    "url": "http://shiba.2ch.net/anime/",
+    "name": "アニメ",
+    "unicode": "SUPPORTED"
+  },
+  "http://hanabi.2ch.net/anime2/": {
+    "url": "http://hanabi.2ch.net/anime2/",
+    "name": "アニメ２",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/anime3/": {
+    "url": "http://hayabusa6.2ch.net/anime3/",
+    "name": "アニメ新作情報",
+    "unicode": null
+  },
+  "http://karma.2ch.net/antianime/": {
+    "url": "http://karma.2ch.net/antianime/",
+    "name": "アニメアンチ",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/ranime/": {
+    "url": "http://hayabusa6.2ch.net/ranime/",
+    "name": "懐アニ昭和",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/ranimeh/": {
+    "url": "http://hayabusa6.2ch.net/ranimeh/",
+    "name": "懐アニ平成",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/animovie/": {
+    "url": "http://tamae.2ch.net/animovie/",
+    "name": "アニメ映画",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/anichara/": {
+    "url": "http://hayabusa6.2ch.net/anichara/",
+    "name": "アニキャラ総合",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/anichara2/": {
+    "url": "http://hanabi.2ch.net/anichara2/",
+    "name": "アニキャラ個別",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/cosp/": {
+    "url": "http://tamae.2ch.net/cosp/",
+    "name": "コスプレ",
+    "unicode": "SUPPORTED"
+  },
+  "http://krsw.2ch.net/cosplayer/": {
+    "url": "http://krsw.2ch.net/cosplayer/",
+    "name": "コスプレイヤー",
+    "unicode": "SUPPORTED"
+  },
+  "http://rio2016.2ch.net/voice/": {
+    "url": "http://rio2016.2ch.net/voice/",
+    "name": "声優総合",
+    "unicode": "SUPPORTED"
+  },
+  "http://hanabi.2ch.net/voiceactor/": {
+    "url": "http://hanabi.2ch.net/voiceactor/",
+    "name": "声優個人",
+    "unicode": "SUPPORTED"
+  },
+  "http://tamae.2ch.net/doujin/": {
+    "url": "http://tamae.2ch.net/doujin/",
+    "name": "同人",
+    "unicode": "SUPPORTED"
+  },
+  "http://rio2016.2ch.net/comiket/": {
+    "url": "http://rio2016.2ch.net/comiket/",
+    "name": "同人イベント",
+    "unicode": "SUPPORTED"
+  },
+  "http://tamae.2ch.net/csaloon/": {
+    "url": "http://tamae.2ch.net/csaloon/",
+    "name": "漫画サロン",
+    "unicode": null
+  },
+  "http://karma.2ch.net/comic/": {
+    "url": "http://karma.2ch.net/comic/",
+    "name": "漫画",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/rcomic/": {
+    "url": "http://tamae.2ch.net/rcomic/",
+    "name": "懐かし漫画",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/ymag/": {
+    "url": "http://tamae.2ch.net/ymag/",
+    "name": "少年漫画",
+    "unicode": "SUPPORTED"
+  },
+  "http://hanabi.2ch.net/wcomic/": {
+    "url": "http://hanabi.2ch.net/wcomic/",
+    "name": "週刊少年漫画",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/gcomic/": {
+    "url": "http://tamae.2ch.net/gcomic/",
+    "name": "少女漫画",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/4koma/": {
+    "url": "http://tamae.2ch.net/4koma/",
+    "name": "４コマ漫画",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/cchara/": {
+    "url": "http://tamae.2ch.net/cchara/",
+    "name": "漫画キャラ",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/sakura/": {
+    "url": "http://hayabusa6.2ch.net/sakura/",
+    "name": "CCさくら",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/eva/": {
+    "url": "http://hayabusa6.2ch.net/eva/",
+    "name": "エヴァ",
+    "unicode": "SUPPORTED"
+  },
+  "http://tamae.2ch.net/cartoon/": {
+    "url": "http://tamae.2ch.net/cartoon/",
+    "name": "海外アニメ漫画",
+    "unicode": "SUPPORTED"
+  },
+  "http://tamae.2ch.net/iga/": {
+    "url": "http://tamae.2ch.net/iga/",
+    "name": "アニメ漫画業界",
+    "unicode": null
+  },
+  "http://echo.2ch.net/bookall/": {
+    "url": "http://echo.2ch.net/bookall/",
+    "name": "文芸書籍サロン",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/magazin/": {
+    "url": "http://hanabi.2ch.net/magazin/",
+    "name": "ライトノベル",
+    "unicode": "SUPPORTED"
+  },
+  "http://echo.2ch.net/mystery/": {
+    "url": "http://echo.2ch.net/mystery/",
+    "name": "ミステリー",
+    "unicode": null
+  },
+  "http://echo.2ch.net/sf/": {
+    "url": "http://echo.2ch.net/sf/",
+    "name": "SF・ﾌｧﾝﾀｼﾞｰ・ﾎﾗｰ",
+    "unicode": "SUPPORTED"
+  },
+  "http://karma.2ch.net/cyberpunk/": {
+    "url": "http://karma.2ch.net/cyberpunk/",
+    "name": "サイバーパンク",
+    "unicode": "SUPPORTED"
+  },
+  "http://rio2016.2ch.net/litechara/": {
+    "url": "http://rio2016.2ch.net/litechara/",
+    "name": "小説・ラノベキャラ",
+    "unicode": null
+  },
+  "http://echo.2ch.net/zassi/": {
+    "url": "http://echo.2ch.net/zassi/",
+    "name": "雑誌",
+    "unicode": null
+  },
+  "http://echo.2ch.net/books/": {
+    "url": "http://echo.2ch.net/books/",
+    "name": "一般書籍",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/ebooks/": {
+    "url": "http://rio2016.2ch.net/ebooks/",
+    "name": "電子書籍",
+    "unicode": null
+  },
+  "http://echo.2ch.net/ehon/": {
+    "url": "http://echo.2ch.net/ehon/",
+    "name": "絵本",
+    "unicode": "SUPPORTED"
+  },
+  "http://echo.2ch.net/juvenile/": {
+    "url": "http://echo.2ch.net/juvenile/",
+    "name": "児童書",
+    "unicode": null
+  },
+  "http://echo.2ch.net/illustrator/": {
+    "url": "http://echo.2ch.net/illustrator/",
+    "name": "イラストレーター",
+    "unicode": null
+  },
+  "http://krsw.2ch.net/idolmaster/": {
+    "url": "http://krsw.2ch.net/idolmaster/",
+    "name": "アイドルマスタ",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/magicalgirls/": {
+    "url": "http://tamae.2ch.net/magicalgirls/",
+    "name": "魔法少女",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/msaloon/": {
+    "url": "http://mint.2ch.net/msaloon/",
+    "name": "音楽サロン",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/mjsaloon/": {
+    "url": "http://mint.2ch.net/mjsaloon/",
+    "name": "邦楽サロン",
+    "unicode": null
+  },
+  "http://mint.2ch.net/musicj/": {
+    "url": "http://mint.2ch.net/musicj/",
+    "name": "邦楽",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/musicjm/": {
+    "url": "http://mint.2ch.net/musicjm/",
+    "name": "邦楽男性ソロ",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/musicjf/": {
+    "url": "http://mint.2ch.net/musicjf/",
+    "name": "邦楽女性ソロ",
+    "unicode": null
+  },
+  "http://echo.2ch.net/musicjg/": {
+    "url": "http://echo.2ch.net/musicjg/",
+    "name": "邦楽グループ",
+    "unicode": "SUPPORTED"
+  },
+  "http://rio2016.2ch.net/natsumeloj/": {
+    "url": "http://rio2016.2ch.net/natsumeloj/",
+    "name": "懐メロ邦楽",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/enka/": {
+    "url": "http://mint.2ch.net/enka/",
+    "name": "演歌",
+    "unicode": null
+  },
+  "http://mint.2ch.net/mesaloon/": {
+    "url": "http://mint.2ch.net/mesaloon/",
+    "name": "洋楽サロン",
+    "unicode": null
+  },
+  "http://mint.2ch.net/musice/": {
+    "url": "http://mint.2ch.net/musice/",
+    "name": "洋楽",
+    "unicode": "SUPPORTED"
+  },
+  "http://hanabi.2ch.net/natsumeloe/": {
+    "url": "http://hanabi.2ch.net/natsumeloe/",
+    "name": "懐メロ洋楽",
+    "unicode": null
+  },
+  "http://mint.2ch.net/music/": {
+    "url": "http://mint.2ch.net/music/",
+    "name": "音楽一般",
+    "unicode": "SUPPORTED"
+  },
+  "http://rio2016.2ch.net/beatles/": {
+    "url": "http://rio2016.2ch.net/beatles/",
+    "name": "ビートルズ",
+    "unicode": null
+  },
+  "http://potato.2ch.net/visual/": {
+    "url": "http://potato.2ch.net/visual/",
+    "name": "ヴィジュサロン",
+    "unicode": null
+  },
+  "http://echo.2ch.net/visualb/": {
+    "url": "http://echo.2ch.net/visualb/",
+    "name": "ヴィジュバンド",
+    "unicode": null
+  },
+  "http://mint.2ch.net/dj/": {
+    "url": "http://mint.2ch.net/dj/",
+    "name": "ＤＪ・クラブ",
+    "unicode": null
+  },
+  "http://mint.2ch.net/disco/": {
+    "url": "http://mint.2ch.net/disco/",
+    "name": "ディスコ",
+    "unicode": null
+  },
+  "http://mint.2ch.net/randb/": {
+    "url": "http://mint.2ch.net/randb/",
+    "name": "R&B・SOUL",
+    "unicode": null
+  },
+  "http://mint.2ch.net/punk/": {
+    "url": "http://mint.2ch.net/punk/",
+    "name": "パンク",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/hrhm/": {
+    "url": "http://mint.2ch.net/hrhm/",
+    "name": "HR・HM",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/hiphop/": {
+    "url": "http://mint.2ch.net/hiphop/",
+    "name": "HIPHOP",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/techno/": {
+    "url": "http://mint.2ch.net/techno/",
+    "name": "TECHNO",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/progre/": {
+    "url": "http://mint.2ch.net/progre/",
+    "name": "プログレ",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/healmusic/": {
+    "url": "http://hanabi.2ch.net/healmusic/",
+    "name": "ヒーリング音楽",
+    "unicode": null
+  },
+  "http://mint.2ch.net/wmusic/": {
+    "url": "http://mint.2ch.net/wmusic/",
+    "name": "ワールド音楽",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/reggae/": {
+    "url": "http://potato.2ch.net/reggae/",
+    "name": "レゲエ",
+    "unicode": null
+  },
+  "http://mint.2ch.net/classic/": {
+    "url": "http://mint.2ch.net/classic/",
+    "name": "ジャズ",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/fusion/": {
+    "url": "http://hanabi.2ch.net/fusion/",
+    "name": "フュージョン",
+    "unicode": null
+  },
+  "http://mint.2ch.net/classical/": {
+    "url": "http://mint.2ch.net/classical/",
+    "name": "クラシック",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/contemporary/": {
+    "url": "http://mint.2ch.net/contemporary/",
+    "name": "現代音楽",
+    "unicode": null
+  },
+  "http://mint.2ch.net/nika/": {
+    "url": "http://mint.2ch.net/nika/",
+    "name": "エレクトロニカ",
+    "unicode": null
+  },
+  "http://mint.2ch.net/suisou/": {
+    "url": "http://mint.2ch.net/suisou/",
+    "name": "吹奏楽",
+    "unicode": "SUPPORTED"
+  },
+  "http://hanabi.2ch.net/chorus/": {
+    "url": "http://hanabi.2ch.net/chorus/",
+    "name": "合唱",
+    "unicode": null
+  },
+  "http://mint.2ch.net/doyo/": {
+    "url": "http://mint.2ch.net/doyo/",
+    "name": "童謡・唱歌",
+    "unicode": "SUPPORTED"
+  },
+  "http://tamae.2ch.net/asong/": {
+    "url": "http://tamae.2ch.net/asong/",
+    "name": "アニソン等",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/soundtrack/": {
+    "url": "http://hanabi.2ch.net/soundtrack/",
+    "name": "サントラ",
+    "unicode": null
+  },
+  "http://mint.2ch.net/karaok/": {
+    "url": "http://mint.2ch.net/karaok/",
+    "name": "カラオケ",
+    "unicode": null
+  },
+  "http://mint.2ch.net/legend/": {
+    "url": "http://mint.2ch.net/legend/",
+    "name": "伝説の",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/minor/": {
+    "url": "http://mint.2ch.net/minor/",
+    "name": "インディーズ",
+    "unicode": "SUPPORTED"
+  },
+  "http://hanabi.2ch.net/band/": {
+    "url": "http://hanabi.2ch.net/band/",
+    "name": "バンド",
+    "unicode": null
+  },
+  "http://mint.2ch.net/compose/": {
+    "url": "http://mint.2ch.net/compose/",
+    "name": "楽器・作曲",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/piano/": {
+    "url": "http://hanabi.2ch.net/piano/",
+    "name": "鍵盤楽器",
+    "unicode": null
+  },
+  "http://karma.2ch.net/hogaku/": {
+    "url": "http://karma.2ch.net/hogaku/",
+    "name": "純邦楽",
+    "unicode": "SUPPORTED"
+  },
+  "http://rio2016.2ch.net/healing/": {
+    "url": "http://rio2016.2ch.net/healing/",
+    "name": "癒し",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/jinsei/": {
+    "url": "http://rio2016.2ch.net/jinsei/",
+    "name": "人生相談",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/psy/": {
+    "url": "http://rio2016.2ch.net/psy/",
+    "name": "心と宗教",
+    "unicode": "SUPPORTED"
+  },
+  "http://rio2016.2ch.net/body/": {
+    "url": "http://rio2016.2ch.net/body/",
+    "name": "身体・健康",
+    "unicode": null
+  },
+  "http://karma.2ch.net/keihatsu/": {
+    "url": "http://karma.2ch.net/keihatsu/",
+    "name": "自己啓発",
+    "unicode": "SUPPORTED"
+  },
+  "http://rio2016.2ch.net/stretch/": {
+    "url": "http://rio2016.2ch.net/stretch/",
+    "name": "マッサージ等",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/handicap/": {
+    "url": "http://hayabusa6.2ch.net/handicap/",
+    "name": "ハンディキャップ",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/cancer/": {
+    "url": "http://hayabusa6.2ch.net/cancer/",
+    "name": "癌・腫瘍",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/nanbyou/": {
+    "url": "http://rio2016.2ch.net/nanbyou/",
+    "name": "難病",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/infection/": {
+    "url": "http://hanabi.2ch.net/infection/",
+    "name": "新型感染症",
+    "unicode": null
+  },
+  "http://echo.2ch.net/hiv/": {
+    "url": "http://echo.2ch.net/hiv/",
+    "name": "HIVサロン",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/atopi/": {
+    "url": "http://rio2016.2ch.net/atopi/",
+    "name": "アトピー",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/hage/": {
+    "url": "http://rio2016.2ch.net/hage/",
+    "name": "ハゲ・ズラ",
+    "unicode": null
+  },
+  "http://echo.2ch.net/pure/": {
+    "url": "http://echo.2ch.net/pure/",
+    "name": "純情恋愛",
+    "unicode": null
+  },
+  "http://echo.2ch.net/furin/": {
+    "url": "http://echo.2ch.net/furin/",
+    "name": "不倫・浮気",
+    "unicode": null
+  },
+  "http://echo.2ch.net/gay/": {
+    "url": "http://echo.2ch.net/gay/",
+    "name": "同性愛",
+    "unicode": "SUPPORTED"
+  },
+  "http://echo.2ch.net/utu/": {
+    "url": "http://echo.2ch.net/utu/",
+    "name": "メンタルヘルス",
+    "unicode": "SUPPORTED"
+  },
+  "http://echo.2ch.net/break/": {
+    "url": "http://echo.2ch.net/break/",
+    "name": "失恋",
+    "unicode": null
+  },
+  "http://headline.2ch.net/bbymobile/": {
+    "url": "http://headline.2ch.net/bbymobile/",
+    "name": "スマホヘッドライン",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/pc2nanmin/": {
+    "url": "http://hayabusa6.2ch.net/pc2nanmin/",
+    "name": "PCサロン",
+    "unicode": null
+  },
+  "http://echo.2ch.net/win/": {
+    "url": "http://echo.2ch.net/win/",
+    "name": "Windows",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/jobs/": {
+    "url": "http://hayabusa6.2ch.net/jobs/",
+    "name": "旧・mac",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/mac/": {
+    "url": "http://potato.2ch.net/mac/",
+    "name": "新・mac",
+    "unicode": "SUPPORTED"
+  },
+  "http://tamae.2ch.net/os/": {
+    "url": "http://tamae.2ch.net/os/",
+    "name": "OS",
+    "unicode": null
+  },
+  "http://echo.2ch.net/desktop/": {
+    "url": "http://echo.2ch.net/desktop/",
+    "name": "デスクトップ",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/pc/": {
+    "url": "http://tamae.2ch.net/pc/",
+    "name": "パソコン一般",
+    "unicode": null
+  },
+  "http://potato.2ch.net/notepc/": {
+    "url": "http://potato.2ch.net/notepc/",
+    "name": "ノートPC",
+    "unicode": null
+  },
+  "http://potato.2ch.net/jisaku/": {
+    "url": "http://potato.2ch.net/jisaku/",
+    "name": "自作PC",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/printer/": {
+    "url": "http://tamae.2ch.net/printer/",
+    "name": "プリンタ",
+    "unicode": null
+  },
+  "http://echo.2ch.net/hard/": {
+    "url": "http://echo.2ch.net/hard/",
+    "name": "ハードウェア",
+    "unicode": null
+  },
+  "http://echo.2ch.net/cdr/": {
+    "url": "http://echo.2ch.net/cdr/",
+    "name": "CD-R,DVD",
+    "unicode": null
+  },
+  "http://potato.2ch.net/software/": {
+    "url": "http://potato.2ch.net/software/",
+    "name": "ソフトウェア",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/mobile/": {
+    "url": "http://potato.2ch.net/mobile/",
+    "name": "モバイル",
+    "unicode": null
+  },
+  "http://echo.2ch.net/bsoft/": {
+    "url": "http://echo.2ch.net/bsoft/",
+    "name": "ビジネスsoft",
+    "unicode": null
+  },
+  "http://echo.2ch.net/unix/": {
+    "url": "http://echo.2ch.net/unix/",
+    "name": "UNIX",
+    "unicode": null
+  },
+  "http://echo.2ch.net/db/": {
+    "url": "http://echo.2ch.net/db/",
+    "name": "データベース",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/linux/": {
+    "url": "http://hayabusa6.2ch.net/linux/",
+    "name": "Linux",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/prog/": {
+    "url": "http://tamae.2ch.net/prog/",
+    "name": "プログラマー",
+    "unicode": null
+  },
+  "http://echo.2ch.net/tech/": {
+    "url": "http://echo.2ch.net/tech/",
+    "name": "プログラム",
+    "unicode": "SUPPORTED"
+  },
+  "http://echo.2ch.net/cg/": {
+    "url": "http://echo.2ch.net/cg/",
+    "name": "ＣＧ",
+    "unicode": null
+  },
+  "http://potato.2ch.net/dtm/": {
+    "url": "http://potato.2ch.net/dtm/",
+    "name": "DTM",
+    "unicode": "SUPPORTED"
+  },
+  "http://echo.2ch.net/avi/": {
+    "url": "http://echo.2ch.net/avi/",
+    "name": "DTV",
+    "unicode": "SUPPORTED"
+  },
+  "http://echo.2ch.net/swf/": {
+    "url": "http://echo.2ch.net/swf/",
+    "name": "FLASH",
+    "unicode": "SUPPORTED"
+  },
+  "http://echo.2ch.net/gamedev/": {
+    "url": "http://echo.2ch.net/gamedev/",
+    "name": "ゲ製作技術",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/i4004/": {
+    "url": "http://hanabi.2ch.net/i4004/",
+    "name": "昔のPC",
+    "unicode": "SUPPORTED"
+  },
+  "http://echo.2ch.net/internet/": {
+    "url": "http://echo.2ch.net/internet/",
+    "name": "インターネット",
+    "unicode": null
+  },
+  "http://mint.2ch.net/download/": {
+    "url": "http://mint.2ch.net/download/",
+    "name": "Download",
+    "unicode": "SUPPORTED"
+  },
+  "http://echo.2ch.net/hp/": {
+    "url": "http://echo.2ch.net/hp/",
+    "name": "Web制作",
+    "unicode": "SUPPORTED"
+  },
+  "http://echo.2ch.net/affiliate/": {
+    "url": "http://echo.2ch.net/affiliate/",
+    "name": "Web収入",
+    "unicode": null
+  },
+  "http://echo.2ch.net/hosting/": {
+    "url": "http://echo.2ch.net/hosting/",
+    "name": "レンタル鯖",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/mysv/": {
+    "url": "http://hayabusa6.2ch.net/mysv/",
+    "name": "自宅サーバ",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/php/": {
+    "url": "http://tamae.2ch.net/php/",
+    "name": "WebProg",
+    "unicode": null
+  },
+  "http://echo.2ch.net/hack/": {
+    "url": "http://echo.2ch.net/hack/",
+    "name": "ネットワーク",
+    "unicode": "SUPPORTED"
+  },
+  "http://tamae.2ch.net/sec/": {
+    "url": "http://tamae.2ch.net/sec/",
+    "name": "セキュリティ",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/network/": {
+    "url": "http://hayabusa6.2ch.net/network/",
+    "name": "通信技術",
+    "unicode": null
+  },
+  "http://karma.2ch.net/cryptocoin/": {
+    "url": "http://karma.2ch.net/cryptocoin/",
+    "name": "仮想通貨板",
+    "unicode": "SUPPORTED"
+  },
+  "http://ipv6.2ch.net/ipv6/": {
+    "url": "http://ipv6.2ch.net/ipv6/",
+    "name": "IPv6",
+    "unicode": null
+  },
+  "http://echo.2ch.net/friend/": {
+    "url": "http://echo.2ch.net/friend/",
+    "name": "ポスペ・irc",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/isp/": {
+    "url": "http://hayabusa6.2ch.net/isp/",
+    "name": "プロバイダー",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/netspot/": {
+    "url": "http://hayabusa6.2ch.net/netspot/",
+    "name": "ネットカフェ",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/nifty/": {
+    "url": "http://tamae.2ch.net/nifty/",
+    "name": "Nifty",
+    "unicode": null
+  },
+  "http://echo.2ch.net/google/": {
+    "url": "http://echo.2ch.net/google/",
+    "name": "Google",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/mmag/": {
+    "url": "http://hayabusa6.2ch.net/mmag/",
+    "name": "メルマガ",
+    "unicode": null
+  },
+  "http://shiba.2ch.net/nanmin/": {
+    "url": "http://shiba.2ch.net/nanmin/",
+    "name": "難民",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/ad/": {
+    "url": "http://hayabusa6.2ch.net/ad/",
+    "name": "宣伝掲示板",
+    "unicode": null
+  },
+  "http://echo.2ch.net/esite/": {
+    "url": "http://echo.2ch.net/esite/",
+    "name": "ネットサービス",
+    "unicode": null
+  },
+  "http://potato.2ch.net/streaming/": {
+    "url": "http://potato.2ch.net/streaming/",
+    "name": "YouTube",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/mstreaming/": {
+    "url": "http://hayabusa6.2ch.net/mstreaming/",
+    "name": "携帯動画",
+    "unicode": null
+  },
+  "http://mint.2ch.net/mdis/": {
+    "url": "http://mint.2ch.net/mdis/",
+    "name": "音楽配信",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/netradio/": {
+    "url": "http://hayabusa6.2ch.net/netradio/",
+    "name": "ネットラジオ等",
+    "unicode": null
+  },
+  "http://echo.2ch.net/blog/": {
+    "url": "http://echo.2ch.net/blog/",
+    "name": "ブログ",
+    "unicode": null
+  },
+  "http://potato.2ch.net/sns/": {
+    "url": "http://potato.2ch.net/sns/",
+    "name": "ソーシャルネット",
+    "unicode": null
+  },
+  "http://mint.2ch.net/net/": {
+    "url": "http://mint.2ch.net/net/",
+    "name": "ネットwatch",
+    "unicode": null
+  },
+  "http://rio2016.2ch.net/twwatch/": {
+    "url": "http://rio2016.2ch.net/twwatch/",
+    "name": "ツイッター観察",
+    "unicode": null
+  },
+  "http://karma.2ch.net/watchbakusai/": {
+    "url": "http://karma.2ch.net/watchbakusai/",
+    "name": "爆サイ",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/yahoo/": {
+    "url": "http://potato.2ch.net/yahoo/",
+    "name": "オークション",
+    "unicode": null
+  },
+  "http://tamae.2ch.net/nntp/": {
+    "url": "http://tamae.2ch.net/nntp/",
+    "name": "nntp",
+    "unicode": null
+  },
+  "http://karma.2ch.net/starwars/": {
+    "url": "http://karma.2ch.net/starwars/",
+    "name": "STARWARS",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/bobby/": {
+    "url": "http://hanabi.2ch.net/bobby/",
+    "name": "おいらロビー",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/lobby/": {
+    "url": "http://potato.2ch.net/lobby/",
+    "name": "ロビー",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/maru/": {
+    "url": "http://hanabi.2ch.net/maru/",
+    "name": "●",
+    "unicode": "SUPPORTED"
+  },
+  "http://mint.2ch.net/mog2/": {
+    "url": "http://mint.2ch.net/mog2/",
+    "name": "なんでもあり",
+    "unicode": null
+  },
+  "http://hanabi.2ch.net/mukashi/": {
+    "url": "http://hanabi.2ch.net/mukashi/",
+    "name": "昔",
+    "unicode": null
+  },
+  "http://echo.2ch.net/kitchen/": {
+    "url": "http://echo.2ch.net/kitchen/",
+    "name": "厨房！",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/tubo/": {
+    "url": "http://potato.2ch.net/tubo/",
+    "name": "最悪",
+    "unicode": "SUPPORTED"
+  },
+  "http://hanabi.2ch.net/joke/": {
+    "url": "http://hanabi.2ch.net/joke/",
+    "name": "学歴",
+    "unicode": null
+  },
+  "http://potato.2ch.net/shugi/": {
+    "url": "http://potato.2ch.net/shugi/",
+    "name": "主義・主張",
+    "unicode": null
+  },
+  "http://potato.2ch.net/rights/": {
+    "url": "http://potato.2ch.net/rights/",
+    "name": "人権問題",
+    "unicode": "SUPPORTED"
+  },
+  "http://agree.2ch.net/anarchy/": {
+    "url": "http://agree.2ch.net/anarchy/",
+    "name": "Anarchy",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa6.2ch.net/accuse/": {
+    "url": "http://hayabusa6.2ch.net/accuse/",
+    "name": "批判要望",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/ranking/": {
+    "url": "http://hayabusa6.2ch.net/ranking/",
+    "name": "格付け",
+    "unicode": null
+  },
+  "http://potato.2ch.net/record/": {
+    "url": "http://potato.2ch.net/record/",
+    "name": "新記録・珍記録",
+    "unicode": null
+  },
+  "http://shiba.2ch.net/siberia/": {
+    "url": "http://shiba.2ch.net/siberia/",
+    "name": "シベリア超速報",
+    "unicode": null
+  },
+  "http://vipper.2ch.net/news4vip/": {
+    "url": "http://vipper.2ch.net/news4vip/",
+    "name": "ニュー速VIP",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa8.2ch.net/news4viptasu/": {
+    "url": "http://hayabusa8.2ch.net/news4viptasu/",
+    "name": "ニュー速VIP+",
+    "unicode": "SUPPORTED"
+  },
+  "http://hitomi.2ch.net/poverty/": {
+    "url": "http://hitomi.2ch.net/poverty/",
+    "name": "ニュー速(嫌儲)",
+    "unicode": "SUPPORTED"
+  },
+  "http://agree.2ch.net/news4anarchy/": {
+    "url": "http://agree.2ch.net/news4anarchy/",
+    "name": "ニュー速(Anarchy)",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/heaven4vip/": {
+    "url": "http://potato.2ch.net/heaven4vip/",
+    "name": "天国",
+    "unicode": null
+  },
+  "http://potato.2ch.net/neet4vip/": {
+    "url": "http://potato.2ch.net/neet4vip/",
+    "name": "ニー速",
+    "unicode": null
+  },
+  "http://hayabusa6.2ch.net/aniki/": {
+    "url": "http://hayabusa6.2ch.net/aniki/",
+    "name": "ガチホモ",
+    "unicode": null
+  },
+  "http://potato.2ch.net/frenchfry/": {
+    "url": "http://potato.2ch.net/frenchfry/",
+    "name": "ふれんちふらい",
+    "unicode": "SUPPORTED"
+  },
+  "http://agree.2ch.net/anime8/": {
+    "url": "http://agree.2ch.net/anime8/",
+    "name": "Anime & Manga",
+    "unicode": null
+  },
+  "http://agree.2ch.net/book8/": {
+    "url": "http://agree.2ch.net/book8/",
+    "name": "Books",
+    "unicode": null
+  },
+  "http://agree.2ch.net/carcom8/": {
+    "url": "http://agree.2ch.net/carcom8/",
+    "name": "Comics & Cartoons",
+    "unicode": null
+  },
+  "http://agree.2ch.net/comp8/": {
+    "url": "http://agree.2ch.net/comp8/",
+    "name": "Computers",
+    "unicode": null
+  },
+  "http://agree.2ch.net/food8/": {
+    "url": "http://agree.2ch.net/food8/",
+    "name": "Food",
+    "unicode": null
+  },
+  "http://agree.2ch.net/games8/": {
+    "url": "http://agree.2ch.net/games8/",
+    "name": "Video Games",
+    "unicode": null
+  },
+  "http://agree.2ch.net/img8/": {
+    "url": "http://agree.2ch.net/img8/",
+    "name": "Imageboard Discussion",
+    "unicode": null
+  },
+  "http://agree.2ch.net/lang8/": {
+    "url": "http://agree.2ch.net/lang8/",
+    "name": "Foreign Language",
+    "unicode": null
+  },
+  "http://agree.2ch.net/lounge8/": {
+    "url": "http://agree.2ch.net/lounge8/",
+    "name": "Lounge",
+    "unicode": null
+  },
+  "http://agree.2ch.net/music8/": {
+    "url": "http://agree.2ch.net/music8/",
+    "name": "Music",
+    "unicode": null
+  },
+  "http://agree.2ch.net/neet4vip8/": {
+    "url": "http://agree.2ch.net/neet4vip8/",
+    "name": "NEET",
+    "unicode": null
+  },
+  "http://agree.2ch.net/vip8/": {
+    "url": "http://agree.2ch.net/vip8/",
+    "name": "News for VIP",
+    "unicode": null
+  },
+  "http://agree.2ch.net/newnew8/": {
+    "url": "http://agree.2ch.net/newnew8/",
+    "name": "World News",
+    "unicode": null
+  },
+  "http://agree.2ch.net/newpol8/": {
+    "url": "http://agree.2ch.net/newpol8/",
+    "name": "Politics",
+    "unicode": null
+  },
+  "http://agree.2ch.net/prog8/": {
+    "url": "http://agree.2ch.net/prog8/",
+    "name": "Programming",
+    "unicode": null
+  },
+  "http://agree.2ch.net/poverty8/": {
+    "url": "http://agree.2ch.net/poverty8/",
+    "name": "Revolution News",
+    "unicode": null
+  },
+  "http://agree.2ch.net/sci8/": {
+    "url": "http://agree.2ch.net/sci8/",
+    "name": "Science & Math",
+    "unicode": null
+  },
+  "http://agree.2ch.net/sjis8/": {
+    "url": "http://agree.2ch.net/sjis8/",
+    "name": "SJIS Room",
+    "unicode": null
+  },
+  "http://agree.2ch.net/sports8/": {
+    "url": "http://agree.2ch.net/sports8/",
+    "name": "Sports",
+    "unicode": null
+  },
+  "http://agree.2ch.net/tech8/": {
+    "url": "http://agree.2ch.net/tech8/",
+    "name": "Technology",
+    "unicode": null
+  },
+  "http://agree.2ch.net/tele8/": {
+    "url": "http://agree.2ch.net/tele8/",
+    "name": "Television & Film",
+    "unicode": null
+  },
+  "http://headline.2ch.net/bbyanarchy/": {
+    "url": "http://headline.2ch.net/bbyanarchy/",
+    "name": "荒野ヘッドライン",
+    "unicode": null
+  },
+  "http://potato.2ch.net/sugiuraayano/": {
+    "url": "http://potato.2ch.net/sugiuraayano/",
+    "name": "ニュース速報(杉浦綾乃)",
+    "unicode": "SUPPORTED"
+  },
+  "http://agree.2ch.net/akari/": {
+    "url": "http://agree.2ch.net/akari/",
+    "name": "あかり",
+    "unicode": "SUPPORTED"
+  },
+  "http://hayabusa8.2ch.net/hayabusa8tr/": {
+    "url": "http://hayabusa8.2ch.net/hayabusa8tr/",
+    "name": "船見結衣",
+    "unicode": null
+  },
+  "http://potato.2ch.net/matsumotorise/": {
+    "url": "http://potato.2ch.net/matsumotorise/",
+    "name": "松本りせ",
+    "unicode": "SUPPORTED"
+  },
+  "http://potato.2ch.net/gorakubu/": {
+    "url": "http://potato.2ch.net/gorakubu/",
+    "name": "ごらく部",
+    "unicode": "SUPPORTED"
+  },
+  "http://agree.2ch.net/mango/": {
+    "url": "http://agree.2ch.net/mango/",
+    "name": "MANGO",
+    "unicode": "SUPPORTED"
+  },
+  "http://qb5.2ch.net/saku2ch/": {
+    "url": "http://qb5.2ch.net/saku2ch/",
+    "name": "削除依頼",
+    "unicode": null
+  },
+  "http://headline.2ch.net/bbypinkH0/": {
+    "url": "http://headline.2ch.net/bbypinkH0/",
+    "name": "速報 | 実況ヘッドライン",
+    "unicode": null
+  },
+  "http://headline.2ch.net/bbypinkH1/": {
+    "url": "http://headline.2ch.net/bbypinkH1/",
+    "name": "総合ヘッドライン",
+    "unicode": null
+  },
+  "http://headline.2ch.net/bbypinkH2/": {
+    "url": "http://headline.2ch.net/bbypinkH2/",
+    "name": "二次ヘッドライン",
+    "unicode": null
+  },
+  "http://headline.2ch.net/bbypinkH3/": {
+    "url": "http://headline.2ch.net/bbypinkH3/",
+    "name": "三次ヘッドライン",
+    "unicode": null
+  },
+  "http://headline.2ch.net/bbypinkH4/": {
+    "url": "http://headline.2ch.net/bbypinkH4/",
+    "name": "エロヘッドライン",
+    "unicode": null
+  },
+  "http://headline.2ch.net/bbypinkH5/": {
+    "url": "http://headline.2ch.net/bbypinkH5/",
+    "name": "風俗ヘッドライン",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/hnews/": {
+    "url": "http://mercury.bbspink.com/hnews/",
+    "name": "ピンクニュース",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/pinkj/": {
+    "url": "http://mercury.bbspink.com/pinkj/",
+    "name": "ピンクJ",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/news4pink/": {
+    "url": "http://mercury.bbspink.com/news4pink/",
+    "name": "ニュース速報ピンク",
+    "unicode": "SUPPORTED"
+  },
+  "http://mercury.bbspink.com/pinkqa/": {
+    "url": "http://mercury.bbspink.com/pinkqa/",
+    "name": "pink初心者",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/sureh/": {
+    "url": "http://mercury.bbspink.com/sureh/",
+    "name": "スレH・エロ会話",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/erolive/": {
+    "url": "http://mercury.bbspink.com/erolive/",
+    "name": "大人の実況",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/xvideos/": {
+    "url": "http://mercury.bbspink.com/xvideos/",
+    "name": "XVIDEOS",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/dmm/": {
+    "url": "http://mercury.bbspink.com/dmm/",
+    "name": "DMM",
+    "unicode": null
+  },
+  "http://phoebe.bbspink.com/hneta/": {
+    "url": "http://phoebe.bbspink.com/hneta/",
+    "name": "えっちねた",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/pinkcafe/": {
+    "url": "http://mercury.bbspink.com/pinkcafe/",
+    "name": "PINKのおいらロ",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/eromog2/": {
+    "url": "http://mercury.bbspink.com/eromog2/",
+    "name": "PINKのなんでも",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/ogefin/": {
+    "url": "http://mercury.bbspink.com/ogefin/",
+    "name": "お下品",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/bishojo/": {
+    "url": "http://mercury.bbspink.com/bishojo/",
+    "name": "美少女",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/dere/": {
+    "url": "http://mercury.bbspink.com/dere/",
+    "name": "デレ全般",
+    "unicode": null
+  },
+  "http://phoebe.bbspink.com/801saloon/": {
+    "url": "http://phoebe.bbspink.com/801saloon/",
+    "name": "801サロン",
+    "unicode": null
+  },
+  "http://phoebe.bbspink.com/pinknanmin/": {
+    "url": "http://phoebe.bbspink.com/pinknanmin/",
+    "name": "ぴんく難民",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/erobbs/": {
+    "url": "http://mercury.bbspink.com/erobbs/",
+    "name": "pink秘密基地",
+    "unicode": "SUPPORTED"
+  },
+  "http://mercury.bbspink.com/housekeeping/": {
+    "url": "http://mercury.bbspink.com/housekeeping/",
+    "name": "PINK削除依頼",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/ccc/": {
+    "url": "http://mercury.bbspink.com/ccc/",
+    "name": "PINK規制議論",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/yama/": {
+    "url": "http://mercury.bbspink.com/yama/",
+    "name": "くノ一の山",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/21oversea2/": {
+    "url": "http://mercury.bbspink.com/21oversea2/",
+    "name": "大人の海外",
+    "unicode": null
+  },
+  "http://phoebe.bbspink.com/hgame/": {
+    "url": "http://phoebe.bbspink.com/hgame/",
+    "name": "エロゲー",
+    "unicode": null
+  },
+  "http://phoebe.bbspink.com/hgame2/": {
+    "url": "http://phoebe.bbspink.com/hgame2/",
+    "name": "エロゲー作品別",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/erog/": {
+    "url": "http://mercury.bbspink.com/erog/",
+    "name": "エロゲネタ",
+    "unicode": "SUPPORTED"
+  },
+  "http://mercury.bbspink.com/leaf/": {
+    "url": "http://mercury.bbspink.com/leaf/",
+    "name": "Leaf・key",
+    "unicode": "SUPPORTED"
+  },
+  "http://phoebe.bbspink.com/gagame/": {
+    "url": "http://phoebe.bbspink.com/gagame/",
+    "name": "女向ゲー大人",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/adultsite/": {
+    "url": "http://mercury.bbspink.com/adultsite/",
+    "name": "アダルトサイト",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/webmaster/": {
+    "url": "http://mercury.bbspink.com/webmaster/",
+    "name": "ウェブマスター",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/avideo/": {
+    "url": "http://mercury.bbspink.com/avideo/",
+    "name": "AV総合",
+    "unicode": "SUPPORTED"
+  },
+  "http://mercury.bbspink.com/avideo2/": {
+    "url": "http://mercury.bbspink.com/avideo2/",
+    "name": "AV女優",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/debut/": {
+    "url": "http://mercury.bbspink.com/debut/",
+    "name": "AV新人",
+    "unicode": "SUPPORTED"
+  },
+  "http://mercury.bbspink.com/nude/": {
+    "url": "http://mercury.bbspink.com/nude/",
+    "name": "ヌード・エロ本",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/eroanime/": {
+    "url": "http://mercury.bbspink.com/eroanime/",
+    "name": "エロアニメ等",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/erocomic/": {
+    "url": "http://mercury.bbspink.com/erocomic/",
+    "name": "エロ漫画小説",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/erodoujin/": {
+    "url": "http://mercury.bbspink.com/erodoujin/",
+    "name": "エロ同人",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/natuero/": {
+    "url": "http://mercury.bbspink.com/natuero/",
+    "name": "懐かしエロ",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/kgirls/": {
+    "url": "http://mercury.bbspink.com/kgirls/",
+    "name": "韓国美人",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/erocosp/": {
+    "url": "http://mercury.bbspink.com/erocosp/",
+    "name": "エロコスプレ",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/butler/": {
+    "url": "http://mercury.bbspink.com/butler/",
+    "name": "執事萌え",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/maid/": {
+    "url": "http://mercury.bbspink.com/maid/",
+    "name": "メイド",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/eroacademy/": {
+    "url": "http://mercury.bbspink.com/eroacademy/",
+    "name": "PINKな学問",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/mcheck/": {
+    "url": "http://mercury.bbspink.com/mcheck/",
+    "name": "健康相談(大人)",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/couple/": {
+    "url": "http://mercury.bbspink.com/couple/",
+    "name": "夫婦生活",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/kageki/": {
+    "url": "http://mercury.bbspink.com/kageki/",
+    "name": "過激な恋愛",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/kageki2/": {
+    "url": "http://mercury.bbspink.com/kageki2/",
+    "name": "大人の恋愛",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/onatech/": {
+    "url": "http://mercury.bbspink.com/onatech/",
+    "name": "オナテク",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/loveho/": {
+    "url": "http://mercury.bbspink.com/loveho/",
+    "name": "ラブホテル",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/adultgoods/": {
+    "url": "http://mercury.bbspink.com/adultgoods/",
+    "name": "アダルトグッズ",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/adultaccessory/": {
+    "url": "http://mercury.bbspink.com/adultaccessory/",
+    "name": "大人の飾り",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/lovedoll/": {
+    "url": "http://mercury.bbspink.com/lovedoll/",
+    "name": "ラブドール",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/sm/": {
+    "url": "http://mercury.bbspink.com/sm/",
+    "name": "ＳＭ",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/feti/": {
+    "url": "http://mercury.bbspink.com/feti/",
+    "name": "フェチ",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/feet/": {
+    "url": "http://mercury.bbspink.com/feet/",
+    "name": "足萌え",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/armpits/": {
+    "url": "http://mercury.bbspink.com/armpits/",
+    "name": "腋下萌え",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/uniform/": {
+    "url": "http://mercury.bbspink.com/uniform/",
+    "name": "制服",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/eyes/": {
+    "url": "http://mercury.bbspink.com/eyes/",
+    "name": "目萌え",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/glasses/": {
+    "url": "http://mercury.bbspink.com/glasses/",
+    "name": "眼鏡萌え",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/swimsuit/": {
+    "url": "http://mercury.bbspink.com/swimsuit/",
+    "name": "水着・スク水",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/hitozuma/": {
+    "url": "http://mercury.bbspink.com/hitozuma/",
+    "name": "人妻",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/mature/": {
+    "url": "http://mercury.bbspink.com/mature/",
+    "name": "熟女",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/cougar/": {
+    "url": "http://mercury.bbspink.com/cougar/",
+    "name": "クーガー",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/pregnant/": {
+    "url": "http://mercury.bbspink.com/pregnant/",
+    "name": "妊婦萌え",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/senpai/": {
+    "url": "http://mercury.bbspink.com/senpai/",
+    "name": "先輩萌え",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/sensei/": {
+    "url": "http://mercury.bbspink.com/sensei/",
+    "name": "教師萌え",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/mom/": {
+    "url": "http://mercury.bbspink.com/mom/",
+    "name": "ママ熟女",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/okama/": {
+    "url": "http://mercury.bbspink.com/okama/",
+    "name": "おかま・おなべ",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/gaypink/": {
+    "url": "http://mercury.bbspink.com/gaypink/",
+    "name": "大人の同性愛",
+    "unicode": "SUPPORTED"
+  },
+  "http://mercury.bbspink.com/lesbian/": {
+    "url": "http://mercury.bbspink.com/lesbian/",
+    "name": "レズ・百合萌え",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/brocon/": {
+    "url": "http://mercury.bbspink.com/brocon/",
+    "name": "兄萌え",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/siscon/": {
+    "url": "http://mercury.bbspink.com/siscon/",
+    "name": "妹萌え",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/eroaa/": {
+    "url": "http://mercury.bbspink.com/eroaa/",
+    "name": "エロAA",
+    "unicode": "SUPPORTED"
+  },
+  "http://mercury.bbspink.com/erochara/": {
+    "url": "http://mercury.bbspink.com/erochara/",
+    "name": "キャラサロン",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/erochara2/": {
+    "url": "http://mercury.bbspink.com/erochara2/",
+    "name": "オリキャラ",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/801/": {
+    "url": "http://mercury.bbspink.com/801/",
+    "name": "８０１",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/futanari/": {
+    "url": "http://mercury.bbspink.com/futanari/",
+    "name": "ふたなり",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/erocg/": {
+    "url": "http://mercury.bbspink.com/erocg/",
+    "name": "お絵描き・創作",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/eroparo/": {
+    "url": "http://mercury.bbspink.com/eroparo/",
+    "name": "エロパロ",
+    "unicode": "SUPPORTED"
+  },
+  "http://mercury.bbspink.com/makeup/": {
+    "url": "http://mercury.bbspink.com/makeup/",
+    "name": "化粧",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/plastic/": {
+    "url": "http://mercury.bbspink.com/plastic/",
+    "name": "整形・豊胸",
+    "unicode": null
+  },
+  "http://phoebe.bbspink.com/ascii/": {
+    "url": "http://phoebe.bbspink.com/ascii/",
+    "name": "半角文字列",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/ascii2d/": {
+    "url": "http://mercury.bbspink.com/ascii2d/",
+    "name": "半角二次元",
+    "unicode": "SUPPORTED"
+  },
+  "http://phoebe.bbspink.com/ascii2kana/": {
+    "url": "http://phoebe.bbspink.com/ascii2kana/",
+    "name": "半角かな",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/girls/": {
+    "url": "http://mercury.bbspink.com/girls/",
+    "name": "アイドル画像",
+    "unicode": "SUPPORTED"
+  },
+  "http://mercury.bbspink.com/sportgirls/": {
+    "url": "http://mercury.bbspink.com/sportgirls/",
+    "name": "スポーツ画像",
+    "unicode": null
+  },
+  "http://phoebe.bbspink.com/club/": {
+    "url": "http://phoebe.bbspink.com/club/",
+    "name": "風俗全般",
+    "unicode": "SUPPORTED"
+  },
+  "http://phoebe.bbspink.com/pub/": {
+    "url": "http://phoebe.bbspink.com/pub/",
+    "name": "お水出会い系",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/host/": {
+    "url": "http://mercury.bbspink.com/host/",
+    "name": "ホストクラブ",
+    "unicode": null
+  },
+  "http://phoebe.bbspink.com/nuki/": {
+    "url": "http://phoebe.bbspink.com/nuki/",
+    "name": "へるす",
+    "unicode": "SUPPORTED"
+  },
+  "http://phoebe.bbspink.com/soap/": {
+    "url": "http://phoebe.bbspink.com/soap/",
+    "name": "ソープ",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/neet4pink/": {
+    "url": "http://mercury.bbspink.com/neet4pink/",
+    "name": "ニー速(pink)",
+    "unicode": null
+  },
+  "http://phoebe.bbspink.com/cherryboy/": {
+    "url": "http://phoebe.bbspink.com/cherryboy/",
+    "name": "童貞",
+    "unicode": null
+  },
+  "http://phoebe.bbspink.com/megami/": {
+    "url": "http://phoebe.bbspink.com/megami/",
+    "name": "女神",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/livemegami/": {
+    "url": "http://mercury.bbspink.com/livemegami/",
+    "name": "女神実況",
+    "unicode": null
+  },
+  "http://phoebe.bbspink.com/meow/": {
+    "url": "http://phoebe.bbspink.com/meow/",
+    "name": "にゃあ",
+    "unicode": "SUPPORTED"
+  },
+  "http://phoebe.bbspink.com/mobpink/": {
+    "url": "http://phoebe.bbspink.com/mobpink/",
+    "name": "大人のモバイル",
+    "unicode": null
+  },
+  "http://phoebe.bbspink.com/3shuchaku/": {
+    "url": "http://phoebe.bbspink.com/3shuchaku/",
+    "name": "ニュー速Ｆ",
+    "unicode": "SUPPORTED"
+  },
+  "http://mercury.bbspink.com/scat/": {
+    "url": "http://mercury.bbspink.com/scat/",
+    "name": "スキャット",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/bukkake/": {
+    "url": "http://mercury.bbspink.com/bukkake/",
+    "name": "ぶっかけ",
+    "unicode": null
+  },
+  "http://mercury.bbspink.com/tentacle/": {
+    "url": "http://mercury.bbspink.com/tentacle/",
+    "name": "触手",
+    "unicode": null
+  },
+  "http://phoebe.bbspink.com/bbbb/": {
+    "url": "http://phoebe.bbspink.com/bbbb/",
+    "name": "English",
+    "unicode": null
+  }
+}
